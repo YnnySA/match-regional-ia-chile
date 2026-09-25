@@ -15,7 +15,7 @@ Como [stakeholder], quiero [saber/aprender/predecir/analizar algo], para poder [
 # Descripción
 Explicación más detallada de la característica desde la perspectiva del stakeholder.
 
-#Definition of Done
+# Definition of Done
 - [ ] Hipótesis de negocio está claramente establecida
 - [ ] Fuentes de datos relevantes han sido identificadas, documentadas y validadas
 - [ ] Pasos de limpieza de datos son reproducibles
