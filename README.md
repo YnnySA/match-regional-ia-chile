@@ -10,3 +10,7 @@ Como contraparte a la consultoria del Ministerio de Economia, se necesita utiliz
 - Acceso a bases de datos relevantes sobre la oferta y demanda laboral, desarrollo regional estrategico y su entorno físico.
 - Herramientas o scripts que permitan analizar y cruzar la información de manera eficiente usando modelos de Aprendizaje Automatico.
 - Visualizaciones o reportes que faciliten la toma de decisiones para la asignación de subsidios.
+
+
+MVP Sprint 1 - JAISSON
+dashboard exploratorio de Match-IA Regional, que permita consultar la oferta de titulados, la estructura productiva y las prioridades de desarrollo de las regiones seleccionadas, como primera base para analizar oportunidades de formación en habilidades complementarias a la IA.
