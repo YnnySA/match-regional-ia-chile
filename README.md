@@ -16,9 +16,10 @@ Scrum Master: Yenny Sánchez
 
 Product Owner: Hernán Leiva
 
-MVP
+### MVP
 
 Analizar la oferta de titulados y los sectores productivos de las regiones seleccionadas, identificando patrones y definiendo indicadores relevantes para Match-IA Regional.
+
 Entrega: análisis exploratorio con gráficos, indicadores definidos y un resumen de hallazgos que sirva de base para el dashboard.
 
 ### Sprint 2  - 17/10 a 30/10
@@ -26,7 +27,8 @@ Scrum Master: Marian Garcia
 
 Product Owner: Jaisson Torres
 
-MVP  
+### MVP  
 
 Presentar los resultados del primer MVP en un dashboard que permita seleccionar y comparar regiones, explorando la oferta de titulados y su contexto productivo.
+
 Entrega: dashboard funcional con filtros regionales, indicadores y visualizaciones que apoyen el análisis de oportunidades de formación en habilidades complementarias a la IA.
