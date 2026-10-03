@@ -11,7 +11,7 @@ Como contraparte a la consultoria del Ministerio de Economia, se necesita utiliz
 - Herramientas o scripts que permitan analizar y cruzar la información de manera eficiente usando modelos de Aprendizaje Automatico.
 - Visualizaciones o reportes que faciliten la toma de decisiones para la asignación de subsidios.
 
-### Sprint 1
+### Sprint 1 26/09 a 16/10
 Scrum Master: Yenny Sánchez
 
 Product Owner: Hernán Leiva
@@ -21,7 +21,7 @@ MVP  - JAISSON
 Como analista de desarrollo regional del Ministerio de Economía, quiero consultar y comparar en un dashboard los sectores estratégicos priorizados en las regiones seleccionadas, para incorporar las prioridades territoriales al análisis de apoyos para formación en habilidades complementarias a la IA.
 
 
-### Sprint 2
+### Sprint 2  17/10 a 30/10
 Scrum Master: Marian Garcia
 
 Product Owner: Jaisson Torres
