@@ -13,4 +13,4 @@ Como contraparte a la consultoria del Ministerio de Economia, se necesita utiliz
 
 
 MVP Sprint 1 - JAISSON
-dashboard exploratorio de Match-IA Regional, que permita consultar la oferta de titulados, la estructura productiva y las prioridades de desarrollo de las regiones seleccionadas, como primera base para analizar oportunidades de formación en habilidades complementarias a la IA.
+Como analista de desarrollo regional del Ministerio de Economía, quiero consultar y comparar en un dashboard los sectores estratégicos priorizados en las regiones seleccionadas, para incorporar las prioridades territoriales al análisis de apoyos para formación en habilidades complementarias a la IA.
