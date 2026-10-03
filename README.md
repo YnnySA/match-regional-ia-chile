@@ -14,7 +14,7 @@ Como contraparte a la consultoria del Ministerio de Economia, se necesita utiliz
 ### Sprint 1
 Scrum Master: Yenny Sánchez
 
-Product Owner:
+Product Owner: Hernán Leiva
 
 MVP  - JAISSON
 
