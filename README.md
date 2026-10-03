@@ -13,6 +13,9 @@ Como contraparte a la consultoria del Ministerio de Economia, se necesita utiliz
 
 ### Sprint 1
 Scrum Master: Yenny Sánchez
+
 Product Owner:
+
 MVP  - JAISSON
+
 Como analista de desarrollo regional del Ministerio de Economía, quiero consultar y comparar en un dashboard los sectores estratégicos priorizados en las regiones seleccionadas, para incorporar las prioridades territoriales al análisis de apoyos para formación en habilidades complementarias a la IA.
