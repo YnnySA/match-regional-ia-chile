@@ -16,10 +16,10 @@ Scrum Master: Yenny Sánchez
 
 Product Owner: Hernán Leiva
 
-MVP  - JAISSON
+MVP
 
-Como analista de desarrollo regional del Ministerio de Economía, quiero consultar y comparar en un dashboard los sectores estratégicos priorizados en las regiones seleccionadas, para incorporar las prioridades territoriales al análisis de apoyos para formación en habilidades complementarias a la IA.
-
+Analizar la oferta de titulados y los sectores productivos de las regiones seleccionadas, identificando patrones y definiendo indicadores relevantes para Match-IA Regional.
+Entrega: análisis exploratorio con gráficos, indicadores definidos y un resumen de hallazgos que sirva de base para el dashboard.
 
 ### Sprint 2  - 17/10 a 30/10
 Scrum Master: Marian Garcia
@@ -27,3 +27,6 @@ Scrum Master: Marian Garcia
 Product Owner: Jaisson Torres
 
 MVP  
+
+Presentar los resultados del primer MVP en un dashboard que permita seleccionar y comparar regiones, explorando la oferta de titulados y su contexto productivo.
+Entrega: dashboard funcional con filtros regionales, indicadores y visualizaciones que apoyen el análisis de oportunidades de formación en habilidades complementarias a la IA.
