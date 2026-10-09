@@ -101,3 +101,6 @@ data/processed/*.csv
 data/processed/*.parquet
 data/processed/*.xlsx
 *.pkl
+
+# Archivos de instrucciones locales
+instrucciones_agente.md
