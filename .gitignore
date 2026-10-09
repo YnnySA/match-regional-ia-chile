@@ -35,6 +35,9 @@ htmlcov/
 # entornos virtuales (venv, virtualenv, uv, poetry, conda)
 .venv/
 venv/
+venv/**
+**/venv/
+**/venv/**
 env/
 .conda/
 
