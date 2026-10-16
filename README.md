@@ -1,109 +1,77 @@
-# MACI 2026 - Grupo 03: Match-IA Regional
+# MACI 2026 · Grupo 03
 
-Este repositorio contiene informacion publica sobre las caracteristicas de la titulacion en Universidades, asi como su ubicacion, red de vialidad y otros servicios publicos, asi como indicaciones sobre otras fuentes de datos (e.g. OpenStreetMap).
+## Match-IA Regional
 
-Esto permitirá al Ministerio sugerir la re-dirección de programas públicos de fomento, evaluar la continuidad de subsidios y focalizar inversiones en polos estratégicos de innovación y desarrollo tecnológico a nivel regional.
+Proyecto de análisis territorial para apoyar decisiones sobre formación, subsidios e inversión en capacidades complementarias a la Inteligencia Artificial.
 
-Como contraparte a la consultoria del Ministerio de Economia, se necesita utilizar la información disponible en este repositorio, junto con datos adicionales sobre los focos de desarrollo estrategico regional por industria, para identificar de manera objetiva qué carreras podrían beneficiarse en mayor medida de los subsidios públicos orientados al desarrollo de habilidades de IA complementarias, a nivel regional. Esto permitirá priorizar la asignación de recursos, focalizando los apoyos en aquellas carreras e industrias que presentan mayores necesidades según criterios basados en datos y evidencia territorial.
+El análisis relaciona:
 
-### Objetivos
-- Acceso a bases de datos relevantes sobre la oferta y demanda laboral, desarrollo regional estrategico y su entorno físico.
-- Herramientas o scripts que permitan analizar y cruzar la información de manera eficiente usando modelos de Aprendizaje Automatico.
-- Visualizaciones o reportes que faciliten la toma de decisiones para la asignación de subsidios.
+- oferta regional de titulados;
+- instituciones adscritas a Gratuidad;
+- estructura productiva y empleo;
+- exposición sectorial a la IA;
+- infraestructura y servicios territoriales.
 
-## Sprint 1 — 26/09 al 16/10 de 2026
+## Objetivo
 
-**Scrum Master:** Yenny Sánchez  
-**Product Owner:** Hernán Leiva
+Identificar regiones y sectores donde exista mayor o menor correspondencia entre la oferta de titulados en áreas afines a IA y la demanda productiva regional expuesta a la IA.
 
-### MVP
+## Estructura
 
-Analizar la oferta de titulados y los sectores productivos de las regiones seleccionadas, identificando patrones y definiendo indicadores relevantes para Match-IA Regional.
+| Directorio | Contenido |
+|---|---|
+| `data/` | Datos originales y procesados |
+| `notebooks/` | Análisis reproducibles |
+| `reports/figures/` | Gráficos y mapas |
+| `openspec/` | Especificaciones y tareas del proyecto |
+| `evaluacion_sprint1.md` | Evaluación del Sprint 1 |
 
-### Entrega
+## Organización del proyecto
 
-Análisis exploratorio con:
+| Sprint | Scrum Master | Product Owner |
+|---|---|---|
+| Sprint 1 | Yenny Sánchez | Hernán Leiva |
+| Sprint 2 | Marian García | Jaisson Torres |
 
-- Indicadores de oferta de titulados.
-- Indicadores sectoriales y exposición regional a IA.
-- Gráficos comparativos y mapas.
-- Matriz exploratoria Match-IA.
-- Fichas metodológicas y resumen de hallazgos.
-- Notebook reproducible que sirva de base para el dashboard.
+## Sprint 1 · Oferta, demanda y Match-IA
 
-## Sprint 2 — 17/10 al 30/10 de 2026
+**Periodo:** 26/09/2026–16/10/2026
 
-**Scrum Master:** Marian García  
-**Product Owner:** Jaisson Torres
+El Sprint 1 entrega un análisis exploratorio de la oferta de titulados y de los sectores productivos regionales expuestos a IA, mediante indicadores, mapas, gráficos, matriz Match-IA, ficha metodológica y un notebook reproducible.
 
-### MVP
+### Historias de usuario
 
-Presentar los resultados del primer MVP en un dashboard que permita seleccionar y comparar regiones, explorando la oferta de titulados y su contexto productivo.
+| Historia | Objetivo | Tareas | Estado |
+|---|---|---|---|
+| [User_01 — Oferta de titulados con gratuidad](https://github.com/TECH-MACI/2026-G03/issues/1) | Caracterizar titulados, áreas afines a IA, gratuidad y sedes por región | #8, #9 | Done |
+| [User_02 — Sectores económicos y exposición a IA](https://github.com/TECH-MACI/2026-G03/issues/2) | Caracterizar la estructura productiva y su relación con IA | #10, #11 | Done |
 
-### Entrega
+### Tareas del Sprint 1
 
-Dashboard funcional para las tres regiones acordadas, con:
+| Issue | Tarea | Estimate (hours) | Estado |
+|---:|---|---:|---|
+| #8 | Configurar entorno, cargar y estandarizar titulados y sedes | 6 | Done |
+| #9 | Calcular indicadores de oferta, mapas y ficha metodológica | 8 | Done |
+| #10 | Preparar datos de empresas, empleo y exposición a IA | 12 | Done |
+| #11 | Calcular indicadores, matriz Match-IA y consolidar el notebook | 10 | Done |
+|  | **Total Sprint 1** | **36** |  |
 
-- Selección y comparación regional.
-- Indicadores y visualizaciones de oferta y estructura productiva.
-- Fuentes, definiciones y limitaciones accesibles.
-- Hallazgos sobre oportunidades de formación en habilidades complementarias a IA.
+## Sprint 2 · Infraestructura y dashboard
 
-El sprint incluye además el análisis de accesibilidad, infraestructura y servicios de User_04.
+El Sprint 2 continuará el análisis territorial con indicadores de infraestructura y un dashboard para explorar y comparar regiones.
 
-## Historias de usuario
+## Resultados principales
 
-Estado según la información compartida al **15 de octubre de 2026**.
+- `notebooks/sprint1_match_ia_regional.ipynb`
+- `data/processed/indicadores_oferta_regional.csv`
+- `data/processed/indicadores_demanda_regional.csv`
+- `data/processed/dataset_match_ia_regional_sprint1.csv`
+- `reports/figures/`
 
-| Sprint | Historia | Propósito | Tareas | Estado |
-|---|---|---|---|---|
-| 1 | [User_01 — Caracterización territorial de la oferta de titulados con gratuidad](https://github.com/TECH-MACI/2026-G03/issues/1) | Caracterizar la distribución regional de titulados y áreas formativas afines a IA | #8 y #9 | Completada: 2 de 2 tareas cerradas |
-| 1 | [User_02 — Sectores económicos regionales según exposición y complementariedad a IA](https://github.com/TECH-MACI/2026-G03/issues/2) | Caracterizar la estructura productiva y explorar su relación con IA | #10 y #11 | En progreso: 1 de 2 tareas cerradas |
-| 2 | [User_04 — Brechas de infraestructura en potenciales polos regionales de innovación](https://github.com/TECH-MACI/2026-G03/issues/4) | Analizar accesibilidad, infraestructura y servicios territoriales | #16, #17 y #18 | Abierta: 0 de 3 tareas cerradas |
-| 2 | [User_05 — Dashboard de oferta y sectores productivos regionales](https://github.com/TECH-MACI/2026-G03/issues/5) | Explorar y comparar regiones mediante indicadores y visualizaciones | #19, #20 y #21 | Abierta: 0 de 3 tareas cerradas |
+## Especificaciones y documentación
 
-La historia User_03 y las tareas #14 y #15 fueron retiradas de esta planificación. Se conservan los identificadores de las historias restantes.
-
-## Resumen de actividades y estimación de horas
-
-Las estimaciones y la distribución de actividades se ajustan a **36 HH por sprint y 18 HH por integrante en total**. Este reparto debe reflejarse en las asignaciones de GitHub.
-
-| Historia | Tarea | Actividad principal | Responsable y distribución | HH |
-|---|---|---|---|---:|
-| **User_01 — Oferta de titulados** | **#8 — Preparar titulados y sedes** | Configurar entorno, cargar y estandarizar datos; preparar información geográfica | Marian: 6 HH | 6 |
-| **User_01 — Oferta de titulados** | **#9 — Indicadores, mapas y metodología** | Calcular indicadores y LQ formativo; generar gráficos, mapas y hallazgos | Jaisson: 8 HH | 8 |
-| **User_02 — Sectores productivos e IA** | **#10 — Preparar empresas, empleo e índice de IA** | Cargar datos productivos y documentar correspondencias con exposición a IA | Yenny: 10 HH · Marian: 2 HH | 12 |
-| **User_02 — Sectores productivos e IA** | **#11 — Indicadores y matriz Match-IA** | Calcular LQ productivo, exposición regional y cuadrantes; validar el notebook consolidado | Hernán: 10 HH | 10 |
-| **User_04 — Infraestructura** | **#16 — Recopilar y preparar datos territoriales** | Preparar red vial y servicios; revisar disponibilidad de conectividad digital | Hernán: 4 HH | 4 |
-| **User_04 — Infraestructura** | **#17 — Calcular indicadores territoriales** | Medir accesibilidad y disponibilidad de servicios y documentar metodología | Jaisson: 4 HH · Marian: 4 HH | 8 |
-| **User_04 — Infraestructura** | **#18 — Generar mapas y hallazgos** | Comparar territorios y resumir posibles brechas de infraestructura | Jaisson: 3 HH · Marian: 3 HH | 6 |
-| **User_05 — Dashboard** | **#19 — Configurar dashboard y selector regional** | Conectar tablas procesadas y habilitar selección de las tres regiones | Hernán: 4 HH | 4 |
-| **User_05 — Dashboard** | **#20 — Incorporar indicadores y gráficos** | Mostrar oferta, estructura productiva y comparación regional | Yenny: 4 HH · Jaisson: 3 HH · Marian: 3 HH | 10 |
-| **User_05 — Dashboard** | **#21 — Documentar y validar el dashboard — alcance propuesto** | Incorporar fuentes y hallazgos; comprobar filtros y consistencia con el notebook | Yenny: 4 HH | 4 |
-| | | **Total estimado** | | **72** |
-
-En #20, Jaisson apoyará los gráficos de oferta, Marian los gráficos productivos y Yenny la integración y comparación regional.
-
-**Pendiente de actualización:** #21 mantiene en GitHub el mismo título que #20. Esta planificación considera sus 4 HH para documentación y validación; corresponde confirmar y actualizar su título y criterios de aceptación.
-
-## Totales por historia y sprint
-
-| Sprint | Historia | Responsables de las tareas | HH |
-|---|---|---|---:|
-| Sprint 1 | **User_01 — Oferta de titulados** | Marian y Jaisson | 14 |
-| Sprint 1 | **User_02 — Sectores productivos e IA** | Yenny, Marian y Hernán | 22 |
-| | **Subtotal Sprint 1** | | **36** |
-| Sprint 2 | **User_04 — Brechas de infraestructura** | Hernán, Jaisson y Marian | 18 |
-| Sprint 2 | **User_05 — Dashboard regional** | Hernán, Yenny, Jaisson y Marian | 18 |
-| | **Subtotal Sprint 2** | | **36** |
-| | **Total general** | | **72** |
-
-## Distribución estimada por integrante
-
-| Integrante | Sprint 1 | Sprint 2 | Total HH |
-|---|---:|---:|---:|
-| **Yenny** | 10 | 8 | **18** |
-| **Marian** | 8 | 10 | **18** |
-| **Jaisson** | 8 | 10 | **18** |
-| **Hernán** | 10 | 8 | **18** |
-| **Total** | **36** | **36** | **72** |
+- [Entorno y estructura](openspec/specs/entorno-y-estructura/spec.md)
+- [Oferta de titulados](openspec/specs/oferta-titulados/spec.md)
+- [Demanda SII y exposición a IA](openspec/specs/demanda-sii-ia/spec.md)
+- [Matriz Match-IA](openspec/specs/matriz-match-ia/spec.md)
+- [Evaluación del Sprint 1](evaluacion_sprint1.md)
