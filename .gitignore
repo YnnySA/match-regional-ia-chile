@@ -40,6 +40,14 @@ venv/**
 **/venv/**
 env/
 .conda/
+.agents/
+.github/prompts/
+.github/skills/
+.opencode/
+openspec/
+
+
+
 
 # --- Jupyter ----------------------------------------------------------
 .ipynb_checkpoints/
@@ -104,3 +112,4 @@ data/processed/*.xlsx
 
 # Archivos de instrucciones locales
 instrucciones_agente.md
+plan_sprint1_notebook.md
