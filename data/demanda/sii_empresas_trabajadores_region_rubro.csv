@@ -1,0 +1,337 @@
+region_sii;seccion_ciiu;rubro_nombre;numero_empresas;trabajadores_dependientes
+Región de Arica y Parinacota;A;Agricultura, ganadería, silvicultura y pesca;864;4320
+Región de Arica y Parinacota;B;Explotación de minas y canteras;74;2940
+Región de Arica y Parinacota;C;Industrias manufactureras;1008;6180
+Región de Arica y Parinacota;D;Suministro de electricidad, gas, vapor y aire acondicionado;49;552
+Región de Arica y Parinacota;E;Suministro de agua, evacuación y gestión de desechos;94;696
+Región de Arica y Parinacota;F;Construcción;1104;5700
+Región de Arica y Parinacota;G;"Comercio al por mayor y al por menor; reparación de vehículos";4500;13680
+Región de Arica y Parinacota;H;Transporte y almacenamiento;1296;4500
+Región de Arica y Parinacota;I;Actividades de alojamiento y de servicio de comidas;672;2820
+Región de Arica y Parinacota;J;Información y comunicaciones;157;693
+Región de Arica y Parinacota;K;Actividades financieras y de seguros;103;651
+Región de Arica y Parinacota;L;Actividades inmobiliarias;516;1380
+Región de Arica y Parinacota;M;Actividades profesionales, científicas y técnicas;443;1113
+Región de Arica y Parinacota;N;Actividades de servicios administrativos y de apoyo;612;5100
+Región de Arica y Parinacota;O;"Administración pública y defensa; seguridad social";31;5940
+Región de Arica y Parinacota;P;Enseñanza;276;4980
+Región de Arica y Parinacota;Q;Actividades de atención de la salud humana y de asistencia social;432;4380
+Región de Arica y Parinacota;R;Actividades artísticas, de entretenimiento y recreativas;174;672
+Región de Arica y Parinacota;S;Otras actividades de servicios;372;1104
+Región de Arica y Parinacota;T;Actividades de los hogares como empleadores;38;312
+Región de Arica y Parinacota;U;Actividades de organizaciones y órganos extraterritoriales;*;*
+Región de Tarapacá;A;Agricultura, ganadería, silvicultura y pesca;1512;7560
+Región de Tarapacá;B;Explotación de minas y canteras;586;28298
+Región de Tarapacá;C;Industrias manufactureras;1764;10815
+Región de Tarapacá;D;Suministro de electricidad, gas, vapor y aire acondicionado;86;966
+Región de Tarapacá;E;Suministro de agua, evacuación y gestión de desechos;164;1218
+Región de Tarapacá;F;Construcción;1932;9975
+Región de Tarapacá;G;"Comercio al por mayor y al por menor; reparación de vehículos";7875;23940
+Región de Tarapacá;H;Transporte y almacenamiento;2268;7875
+Región de Tarapacá;I;Actividades de alojamiento y de servicio de comidas;1176;4935
+Región de Tarapacá;J;Información y comunicaciones;274;1213
+Región de Tarapacá;K;Actividades financieras y de seguros;180;1139
+Región de Tarapacá;L;Actividades inmobiliarias;903;2415
+Región de Tarapacá;M;Actividades profesionales, científicas y técnicas;775;1948
+Región de Tarapacá;N;Actividades de servicios administrativos y de apoyo;1071;8925
+Región de Tarapacá;O;"Administración pública y defensa; seguridad social";55;10395
+Región de Tarapacá;P;Enseñanza;483;8715
+Región de Tarapacá;Q;Actividades de atención de la salud humana y de asistencia social;756;7665
+Región de Tarapacá;R;Actividades artísticas, de entretenimiento y recreativas;304;1176
+Región de Tarapacá;S;Otras actividades de servicios;651;1932
+Región de Tarapacá;T;Actividades de los hogares como empleadores;67;546
+Región de Tarapacá;U;Actividades de organizaciones y órganos extraterritoriales;*;*
+Región de Antofagasta;A;Agricultura, ganadería, silvicultura y pesca;324;1296
+Región de Antofagasta;B;Explotación de minas y canteras;1256;60638
+Región de Antofagasta;C;Industrias manufactureras;3780;23175
+Región de Antofagasta;D;Suministro de electricidad, gas, vapor y aire acondicionado;184;2070
+Región de Antofagasta;E;Suministro de agua, evacuación y gestión de desechos;351;2610
+Región de Antofagasta;F;Construcción;4140;21375
+Región de Antofagasta;G;"Comercio al por mayor y al por menor; reparación de vehículos";16875;51300
+Región de Antofagasta;H;Transporte y almacenamiento;4860;16875
+Región de Antofagasta;I;Actividades de alojamiento y de servicio de comidas;2520;10575
+Región de Antofagasta;J;Información y comunicaciones;587;2599
+Región de Antofagasta;K;Actividades financieras y de seguros;385;2441
+Región de Antofagasta;L;Actividades inmobiliarias;1935;5175
+Región de Antofagasta;M;Actividades profesionales, científicas y técnicas;1660;4174
+Región de Antofagasta;N;Actividades de servicios administrativos y de apoyo;2295;19125
+Región de Antofagasta;O;"Administración pública y defensa; seguridad social";117;22275
+Región de Antofagasta;P;Enseñanza;1035;18675
+Región de Antofagasta;Q;Actividades de atención de la salud humana y de asistencia social;1620;16425
+Región de Antofagasta;R;Actividades artísticas, de entretenimiento y recreativas;652;2520
+Región de Antofagasta;S;Otras actividades de servicios;1395;4140
+Región de Antofagasta;T;Actividades de los hogares como empleadores;144;1170
+Región de Antofagasta;U;Actividades de organizaciones y órganos extraterritoriales;11;216
+Región de Atacama;A;Agricultura, ganadería, silvicultura y pesca;1152;5760
+Región de Atacama;B;Explotación de minas y canteras;446;21560
+Región de Atacama;C;Industrias manufactureras;1344;8240
+Región de Atacama;D;Suministro de electricidad, gas, vapor y aire acondicionado;66;736
+Región de Atacama;E;Suministro de agua, evacuación y gestión de desechos;125;928
+Región de Atacama;F;Construcción;1472;7600
+Región de Atacama;G;"Comercio al por mayor y al por menor; reparación de vehículos";6000;18240
+Región de Atacama;H;Transporte y almacenamiento;1728;6000
+Región de Atacama;I;Actividades de alojamiento y de servicio de comidas;896;3760
+Región de Atacama;J;Información y comunicaciones;209;924
+Región de Atacama;K;Actividades financieras y de seguros;137;868
+Región de Atacama;L;Actividades inmobiliarias;688;1840
+Región de Atacama;M;Actividades profesionales, científicas y técnicas;590;1484
+Región de Atacama;N;Actividades de servicios administrativos y de apoyo;816;6800
+Región de Atacama;O;"Administración pública y defensa; seguridad social";42;7920
+Región de Atacama;P;Enseñanza;368;6640
+Región de Atacama;Q;Actividades de atención de la salud humana y de asistencia social;576;5840
+Región de Atacama;R;Actividades artísticas, de entretenimiento y recreativas;232;896
+Región de Atacama;S;Otras actividades de servicios;496;1472
+Región de Atacama;T;Actividades de los hogares como empleadores;51;416
+Región de Atacama;U;Actividades de organizaciones y órganos extraterritoriales;*;*
+Región de Coquimbo;A;Agricultura, ganadería, silvicultura y pesca;2736;13680
+Región de Coquimbo;B;Explotación de minas y canteras;236;9310
+Región de Coquimbo;C;Industrias manufactureras;3192;19570
+Región de Coquimbo;D;Suministro de electricidad, gas, vapor y aire acondicionado;156;1748
+Región de Coquimbo;E;Suministro de agua, evacuación y gestión de desechos;296;2204
+Región de Coquimbo;F;Construcción;3496;18050
+Región de Coquimbo;G;"Comercio al por mayor y al por menor; reparación de vehículos";14250;43320
+Región de Coquimbo;H;Transporte y almacenamiento;4104;14250
+Región de Coquimbo;I;Actividades de alojamiento y de servicio de comidas;2128;8930
+Región de Coquimbo;J;Información y comunicaciones;496;2194
+Región de Coquimbo;K;Actividades financieras y de seguros;325;2062
+Región de Coquimbo;L;Actividades inmobiliarias;1634;4370
+Región de Coquimbo;M;Actividades profesionales, científicas y técnicas;1402;3524
+Región de Coquimbo;N;Actividades de servicios administrativos y de apoyo;1938;16150
+Región de Coquimbo;O;"Administración pública y defensa; seguridad social";99;18810
+Región de Coquimbo;P;Enseñanza;874;15770
+Región de Coquimbo;Q;Actividades de atención de la salud humana y de asistencia social;1368;13870
+Región de Coquimbo;R;Actividades artísticas, de entretenimiento y recreativas;551;2128
+Región de Coquimbo;S;Otras actividades de servicios;1178;3496
+Región de Coquimbo;T;Actividades de los hogares como empleadores;122;988
+Región de Coquimbo;U;Actividades de organizaciones y órganos extraterritoriales;10;182
+Región de Valparaíso;A;Agricultura, ganadería, silvicultura y pesca;6336;31680
+Región de Valparaíso;B;Explotación de minas y canteras;546;21560
+Región de Valparaíso;C;Industrias manufactureras;7392;45320
+Región de Valparaíso;D;Suministro de electricidad, gas, vapor y aire acondicionado;361;4048
+Región de Valparaíso;E;Suministro de agua, evacuación y gestión de desechos;686;5104
+Región de Valparaíso;F;Construcción;8096;41800
+Región de Valparaíso;G;"Comercio al por mayor y al por menor; reparación de vehículos";33000;100320
+Región de Valparaíso;H;Transporte y almacenamiento;9504;33000
+Región de Valparaíso;I;Actividades de alojamiento y de servicio de comidas;4928;20680
+Región de Valparaíso;J;Información y comunicaciones;2680;15246
+Región de Valparaíso;K;Actividades financieras y de seguros;1756;14322
+Región de Valparaíso;L;Actividades inmobiliarias;3784;10120
+Región de Valparaíso;M;Actividades profesionales, científicas y técnicas;7577;24486
+Región de Valparaíso;N;Actividades de servicios administrativos y de apoyo;4488;37400
+Región de Valparaíso;O;"Administración pública y defensa; seguridad social";229;43560
+Región de Valparaíso;P;Enseñanza;2024;36520
+Región de Valparaíso;Q;Actividades de atención de la salud humana y de asistencia social;3168;32120
+Región de Valparaíso;R;Actividades artísticas, de entretenimiento y recreativas;1276;4928
+Región de Valparaíso;S;Otras actividades de servicios;2728;8096
+Región de Valparaíso;T;Actividades de los hogares como empleadores;282;2288
+Región de Valparaíso;U;Actividades de organizaciones y órganos extraterritoriales;22;422
+Región Metropolitana de Santiago;A;Agricultura, ganadería, silvicultura y pesca;11844;59220
+Región Metropolitana de Santiago;B;Explotación de minas y canteras;1457;46060
+Región Metropolitana de Santiago;C;Industrias manufactureras;39480;242050
+Región Metropolitana de Santiago;D;Suministro de electricidad, gas, vapor y aire acondicionado;1927;21620
+Región Metropolitana de Santiago;E;Suministro de agua, evacuación y gestión de desechos;3666;27260
+Región Metropolitana de Santiago;F;Construcción;43240;223250
+Región Metropolitana de Santiago;G;"Comercio al por mayor y al por menor; reparación de vehículos";176250;535800
+Región Metropolitana de Santiago;H;Transporte y almacenamiento;50760;176250
+Región Metropolitana de Santiago;I;Actividades de alojamiento y de servicio de comidas;26320;110450
+Región Metropolitana de Santiago;J;Información y comunicaciones;19764;120202
+Región Metropolitana de Santiago;K;Actividades financieras y de seguros;12948;112917
+Región Metropolitana de Santiago;L;Actividades inmobiliarias;20210;54050
+Región Metropolitana de Santiago;M;Actividades profesionales, científicas y técnicas;55883;193052
+Región Metropolitana de Santiago;N;Actividades de servicios administrativos y de apoyo;23970;199750
+Región Metropolitana de Santiago;O;"Administración pública y defensa; seguridad social";1222;232650
+Región Metropolitana de Santiago;P;Enseñanza;10810;195050
+Región Metropolitana de Santiago;Q;Actividades de atención de la salud humana y de asistencia social;16920;171550
+Región Metropolitana de Santiago;R;Actividades artísticas, de entretenimiento y recreativas;6815;26320
+Región Metropolitana de Santiago;S;Otras actividades de servicios;14570;43240
+Región Metropolitana de Santiago;T;Actividades de los hogares como empleadores;1504;12220
+Región Metropolitana de Santiago;U;Actividades de organizaciones y órganos extraterritoriales;118;2256
+Región del Libertador Gral. Bernardo O'Higgins;A;Agricultura, ganadería, silvicultura y pesca;9878;52920
+Región del Libertador Gral. Bernardo O'Higgins;B;Explotación de minas y canteras;304;12005
+Región del Libertador Gral. Bernardo O'Higgins;C;Industrias manufactureras;4116;25235
+Región del Libertador Gral. Bernardo O'Higgins;D;Suministro de electricidad, gas, vapor y aire acondicionado;201;2254
+Región del Libertador Gral. Bernardo O'Higgins;E;Suministro de agua, evacuación y gestión de desechos;382;2842
+Región del Libertador Gral. Bernardo O'Higgins;F;Construcción;4508;23275
+Región del Libertador Gral. Bernardo O'Higgins;G;"Comercio al por mayor y al por menor; reparación de vehículos";18375;55860
+Región del Libertador Gral. Bernardo O'Higgins;H;Transporte y almacenamiento;5292;18375
+Región del Libertador Gral. Bernardo O'Higgins;I;Actividades de alojamiento y de servicio de comidas;2744;11515
+Región del Libertador Gral. Bernardo O'Higgins;J;Información y comunicaciones;639;2830
+Región del Libertador Gral. Bernardo O'Higgins;K;Actividades financieras y de seguros;419;2658
+Región del Libertador Gral. Bernardo O'Higgins;L;Actividades inmobiliarias;2107;5635
+Región del Libertador Gral. Bernardo O'Higgins;M;Actividades profesionales, científicas y técnicas;1808;4545
+Región del Libertador Gral. Bernardo O'Higgins;N;Actividades de servicios administrativos y de apoyo;2499;20825
+Región del Libertador Gral. Bernardo O'Higgins;O;"Administración pública y defensa; seguridad social";127;24255
+Región del Libertador Gral. Bernardo O'Higgins;P;Enseñanza;1127;20335
+Región del Libertador Gral. Bernardo O'Higgins;Q;Actividades de atención de la salud humana y de asistencia social;1764;17885
+Región del Libertador Gral. Bernardo O'Higgins;R;Actividades artísticas, de entretenimiento y recreativas;710;2744
+Región del Libertador Gral. Bernardo O'Higgins;S;Otras actividades de servicios;1519;4508
+Región del Libertador Gral. Bernardo O'Higgins;T;Actividades de los hogares como empleadores;157;1274
+Región del Libertador Gral. Bernardo O'Higgins;U;Actividades de organizaciones y órganos extraterritoriales;12;235
+Región del Maule;A;Agricultura, ganadería, silvicultura y pesca;9677;51840
+Región del Maule;B;Explotación de minas y canteras;298;11760
+Región del Maule;C;Industrias manufactureras;4032;24720
+Región del Maule;D;Suministro de electricidad, gas, vapor y aire acondicionado;197;2208
+Región del Maule;E;Suministro de agua, evacuación y gestión de desechos;374;2784
+Región del Maule;F;Construcción;4416;22800
+Región del Maule;G;"Comercio al por mayor y al por menor; reparación de vehículos";18000;54720
+Región del Maule;H;Transporte y almacenamiento;5184;18000
+Región del Maule;I;Actividades de alojamiento y de servicio de comidas;2688;11280
+Región del Maule;J;Información y comunicaciones;626;2772
+Región del Maule;K;Actividades financieras y de seguros;410;2604
+Región del Maule;L;Actividades inmobiliarias;2064;5520
+Región del Maule;M;Actividades profesionales, científicas y técnicas;1771;4452
+Región del Maule;N;Actividades de servicios administrativos y de apoyo;2448;20400
+Región del Maule;O;"Administración pública y defensa; seguridad social";125;23760
+Región del Maule;P;Enseñanza;1104;19920
+Región del Maule;Q;Actividades de atención de la salud humana y de asistencia social;1728;17520
+Región del Maule;R;Actividades artísticas, de entretenimiento y recreativas;696;2688
+Región del Maule;S;Otras actividades de servicios;1488;4416
+Región del Maule;T;Actividades de los hogares como empleadores;154;1248
+Región del Maule;U;Actividades de organizaciones y órganos extraterritoriales;12;230
+Región de Ñuble;A;Agricultura, ganadería, silvicultura y pesca;4032;21600
+Región de Ñuble;B;Explotación de minas y canteras;12;392
+Región de Ñuble;C;Industrias manufactureras;1680;10300
+Región de Ñuble;D;Suministro de electricidad, gas, vapor y aire acondicionado;82;920
+Región de Ñuble;E;Suministro de agua, evacuación y gestión de desechos;156;1160
+Región de Ñuble;F;Construcción;1840;9500
+Región de Ñuble;G;"Comercio al por mayor y al por menor; reparación de vehículos";7500;22800
+Región de Ñuble;H;Transporte y almacenamiento;2160;7500
+Región de Ñuble;I;Actividades de alojamiento y de servicio de comidas;1120;4700
+Región de Ñuble;J;Información y comunicaciones;261;1155
+Región de Ñuble;K;Actividades financieras y de seguros;171;1085
+Región de Ñuble;L;Actividades inmobiliarias;860;2300
+Región de Ñuble;M;Actividades profesionales, científicas y técnicas;738;1855
+Región de Ñuble;N;Actividades de servicios administrativos y de apoyo;1020;8500
+Región de Ñuble;O;"Administración pública y defensa; seguridad social";52;9900
+Región de Ñuble;P;Enseñanza;460;8300
+Región de Ñuble;Q;Actividades de atención de la salud humana y de asistencia social;720;7300
+Región de Ñuble;R;Actividades artísticas, de entretenimiento y recreativas;290;1120
+Región de Ñuble;S;Otras actividades de servicios;620;1840
+Región de Ñuble;T;Actividades de los hogares como empleadores;64;520
+Región de Ñuble;U;Actividades de organizaciones y órganos extraterritoriales;5;96
+Región del Biobío;A;Agricultura, ganadería, silvicultura y pesca;5904;29520
+Región del Biobío;B;Explotación de minas y canteras;508;20090
+Región del Biobío;C;Industrias manufactureras;6888;42230
+Región del Biobío;D;Suministro de electricidad, gas, vapor y aire acondicionado;336;3772
+Región del Biobío;E;Suministro de agua, evacuación y gestión de desechos;640;4756
+Región del Biobío;F;Construcción;7544;38950
+Región del Biobío;G;"Comercio al por mayor y al por menor; reparación de vehículos";30750;93480
+Región del Biobío;H;Transporte y almacenamiento;8856;30750
+Región del Biobío;I;Actividades de alojamiento y de servicio de comidas;4592;19270
+Región del Biobío;J;Información y comunicaciones;2497;14207
+Región del Biobío;K;Actividades financieras y de seguros;1636;13346
+Región del Biobío;L;Actividades inmobiliarias;3526;9430
+Región del Biobío;M;Actividades profesionales, científicas y técnicas;7060;22817
+Región del Biobío;N;Actividades de servicios administrativos y de apoyo;4182;34850
+Región del Biobío;O;"Administración pública y defensa; seguridad social";213;40590
+Región del Biobío;P;Enseñanza;1886;34030
+Región del Biobío;Q;Actividades de atención de la salud humana y de asistencia social;2952;29930
+Región del Biobío;R;Actividades artísticas, de entretenimiento y recreativas;1189;4592
+Región del Biobío;S;Otras actividades de servicios;2542;7544
+Región del Biobío;T;Actividades de los hogares como empleadores;262;2132
+Región del Biobío;U;Actividades de organizaciones y órganos extraterritoriales;20;394
+Región de La Araucanía;A;Agricultura, ganadería, silvicultura y pesca;8064;43200
+Región de La Araucanía;B;Explotación de minas y canteras;25;784
+Región de La Araucanía;C;Industrias manufactureras;3360;20600
+Región de La Araucanía;D;Suministro de electricidad, gas, vapor y aire acondicionado;164;1840
+Región de La Araucanía;E;Suministro de agua, evacuación y gestión de desechos;312;2320
+Región de La Araucanía;F;Construcción;3680;19000
+Región de La Araucanía;G;"Comercio al por mayor y al por menor; reparación de vehículos";15000;45600
+Región de La Araucanía;H;Transporte y almacenamiento;4320;15000
+Región de La Araucanía;I;Actividades de alojamiento y de servicio de comidas;2240;9400
+Región de La Araucanía;J;Información y comunicaciones;522;2310
+Región de La Araucanía;K;Actividades financieras y de seguros;342;2170
+Región de La Araucanía;L;Actividades inmobiliarias;1720;4600
+Región de La Araucanía;M;Actividades profesionales, científicas y técnicas;1476;3710
+Región de La Araucanía;N;Actividades de servicios administrativos y de apoyo;2040;17000
+Región de La Araucanía;O;"Administración pública y defensa; seguridad social";104;19800
+Región de La Araucanía;P;Enseñanza;920;16600
+Región de La Araucanía;Q;Actividades de atención de la salud humana y de asistencia social;1440;14600
+Región de La Araucanía;R;Actividades artísticas, de entretenimiento y recreativas;580;2240
+Región de La Araucanía;S;Otras actividades de servicios;1240;3680
+Región de La Araucanía;T;Actividades de los hogares como empleadores;128;1040
+Región de La Araucanía;U;Actividades de organizaciones y órganos extraterritoriales;10;192
+Región de Los Ríos;A;Agricultura, ganadería, silvicultura y pesca;1368;6840
+Región de Los Ríos;B;Explotación de minas y canteras;12;372
+Región de Los Ríos;C;Industrias manufactureras;1596;9785
+Región de Los Ríos;D;Suministro de electricidad, gas, vapor y aire acondicionado;78;874
+Región de Los Ríos;E;Suministro de agua, evacuación y gestión de desechos;148;1102
+Región de Los Ríos;F;Construcción;1748;9025
+Región de Los Ríos;G;"Comercio al por mayor y al por menor; reparación de vehículos";7125;21660
+Región de Los Ríos;H;Transporte y almacenamiento;2052;7125
+Región de Los Ríos;I;Actividades de alojamiento y de servicio de comidas;1064;4465
+Región de Los Ríos;J;Información y comunicaciones;248;1097
+Región de Los Ríos;K;Actividades financieras y de seguros;162;1031
+Región de Los Ríos;L;Actividades inmobiliarias;817;2185
+Región de Los Ríos;M;Actividades profesionales, científicas y técnicas;701;1762
+Región de Los Ríos;N;Actividades de servicios administrativos y de apoyo;969;8075
+Región de Los Ríos;O;"Administración pública y defensa; seguridad social";49;9405
+Región de Los Ríos;P;Enseñanza;437;7885
+Región de Los Ríos;Q;Actividades de atención de la salud humana y de asistencia social;684;6935
+Región de Los Ríos;R;Actividades artísticas, de entretenimiento y recreativas;276;1064
+Región de Los Ríos;S;Otras actividades de servicios;589;1748
+Región de Los Ríos;T;Actividades de los hogares como empleadores;61;494
+Región de Los Ríos;U;Actividades de organizaciones y órganos extraterritoriales;5;91
+Región de Los Lagos;A;Agricultura, ganadería, silvicultura y pesca;8467;45360
+Región de Los Lagos;B;Explotación de minas y canteras;260;10290
+Región de Los Lagos;C;Industrias manufactureras;3528;21630
+Región de Los Lagos;D;Suministro de electricidad, gas, vapor y aire acondicionado;172;1932
+Región de Los Lagos;E;Suministro de agua, evacuación y gestión de desechos;328;2436
+Región de Los Lagos;F;Construcción;3864;19950
+Región de Los Lagos;G;"Comercio al por mayor y al por menor; reparación de vehículos";15750;47880
+Región de Los Lagos;H;Transporte y almacenamiento;4536;15750
+Región de Los Lagos;I;Actividades de alojamiento y de servicio de comidas;2352;9870
+Región de Los Lagos;J;Información y comunicaciones;548;2426
+Región de Los Lagos;K;Actividades financieras y de seguros;359;2278
+Región de Los Lagos;L;Actividades inmobiliarias;1806;4830
+Región de Los Lagos;M;Actividades profesionales, científicas y técnicas;1550;3896
+Región de Los Lagos;N;Actividades de servicios administrativos y de apoyo;2142;17850
+Región de Los Lagos;O;"Administración pública y defensa; seguridad social";109;20790
+Región de Los Lagos;P;Enseñanza;966;17430
+Región de Los Lagos;Q;Actividades de atención de la salud humana y de asistencia social;1512;15330
+Región de Los Lagos;R;Actividades artísticas, de entretenimiento y recreativas;609;2352
+Región de Los Lagos;S;Otras actividades de servicios;1302;3864
+Región de Los Lagos;T;Actividades de los hogares como empleadores;134;1092
+Región de Los Lagos;U;Actividades de organizaciones y órganos extraterritoriales;10;202
+Región de Aysén;A;Agricultura, ganadería, silvicultura y pesca;504;2520
+Región de Aysén;B;Explotación de minas y canteras;4;137
+Región de Aysén;C;Industrias manufactureras;588;3605
+Región de Aysén;D;Suministro de electricidad, gas, vapor y aire acondicionado;29;322
+Región de Aysén;E;Suministro de agua, evacuación y gestión de desechos;55;406
+Región de Aysén;F;Construcción;644;3325
+Región de Aysén;G;"Comercio al por mayor y al por menor; reparación de vehículos";2625;7980
+Región de Aysén;H;Transporte y almacenamiento;756;2625
+Región de Aysén;I;Actividades de alojamiento y de servicio de comidas;392;1645
+Región de Aysén;J;Información y comunicaciones;91;404
+Región de Aysén;K;Actividades financieras y de seguros;60;380
+Región de Aysén;L;Actividades inmobiliarias;301;805
+Región de Aysén;M;Actividades profesionales, científicas y técnicas;258;649
+Región de Aysén;N;Actividades de servicios administrativos y de apoyo;357;2975
+Región de Aysén;O;"Administración pública y defensa; seguridad social";18;3465
+Región de Aysén;P;Enseñanza;161;2905
+Región de Aysén;Q;Actividades de atención de la salud humana y de asistencia social;252;2555
+Región de Aysén;R;Actividades artísticas, de entretenimiento y recreativas;102;392
+Región de Aysén;S;Otras actividades de servicios;217;644
+Región de Aysén;T;Actividades de los hogares como empleadores;*;*
+Región de Aysén;U;Actividades de organizaciones y órganos extraterritoriales;*;*
+Región de Magallanes;A;Agricultura, ganadería, silvicultura y pesca;792;3960
+Región de Magallanes;B;Explotación de minas y canteras;68;2695
+Región de Magallanes;C;Industrias manufactureras;924;5665
+Región de Magallanes;D;Suministro de electricidad, gas, vapor y aire acondicionado;45;506
+Región de Magallanes;E;Suministro de agua, evacuación y gestión de desechos;86;638
+Región de Magallanes;F;Construcción;1012;5225
+Región de Magallanes;G;"Comercio al por mayor y al por menor; reparación de vehículos";4125;12540
+Región de Magallanes;H;Transporte y almacenamiento;1188;4125
+Región de Magallanes;I;Actividades de alojamiento y de servicio de comidas;616;2585
+Región de Magallanes;J;Información y comunicaciones;144;635
+Región de Magallanes;K;Actividades financieras y de seguros;94;597
+Región de Magallanes;L;Actividades inmobiliarias;473;1265
+Región de Magallanes;M;Actividades profesionales, científicas y técnicas;406;1020
+Región de Magallanes;N;Actividades de servicios administrativos y de apoyo;561;4675
+Región de Magallanes;O;"Administración pública y defensa; seguridad social";29;5445
+Región de Magallanes;P;Enseñanza;253;4565
+Región de Magallanes;Q;Actividades de atención de la salud humana y de asistencia social;396;4015
+Región de Magallanes;R;Actividades artísticas, de entretenimiento y recreativas;160;616
+Región de Magallanes;S;Otras actividades de servicios;341;1012
+Región de Magallanes;T;Actividades de los hogares como empleadores;35;286
+Región de Magallanes;U;Actividades de organizaciones y órganos extraterritoriales;*;*
