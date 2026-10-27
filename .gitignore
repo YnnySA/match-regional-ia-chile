@@ -108,8 +108,15 @@ data/oferta/*.pdf
 data/processed/*.csv
 data/processed/*.parquet
 data/processed/*.xlsx
+data/infraestructura/raw/
+data/processed/infraestructura/
 *.pkl
 
 # Archivos de instrucciones locales
 instrucciones_agente.md
 plan_sprint1_notebook.md
+evaluacion_sprint1.md
+01_agil_scrum-claro.pdf
+02_git-claro.pdf
+03_github_project-claro.pdf
+Proy_Tech_MACI_1.pdf

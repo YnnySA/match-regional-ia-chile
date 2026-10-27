@@ -1,0 +1,6 @@
+source_id,domain,name,origin_url,license,consulted_at,cutoff_date,coverage,territorial_level,format,crs,estimated_size,status,notes
+infra-road-pending,red_vial,Fuente de red vial por confirmar,pendiente,pendiente,2026-10-26,pendiente,Chile; regiones MVP pendientes,pendiente,pendiente,pendiente,pendiente,pendiente,No incorporar hasta verificar la fuente y su licencia
+infra-services-datosgob,servicios,Catálogo geoespacial de instalaciones y edificaciones,https://datos.gob.cl/dataset/categoria-geoespacial-instalaciones-y-edificaciones,pendiente,2026-10-26,pendiente,Chile; cobertura del recurso pendiente,pendiente,pendiente,pendiente,pendiente,pendiente,Referencia documental no verificada para este cambio
+infra-services-geomop,servicios,Descargas geoespaciales del MOP Geomop,https://geomop.mop.gob.cl/descargas/,pendiente,2026-10-26,pendiente,Chile; cobertura del recurso pendiente,pendiente,pendiente,pendiente,pendiente,pendiente,Referencia documental no verificada para este cambio
+infra-connectivity-pending,conectividad,Fuente de conectividad digital por confirmar,https://www.subtel.gob.cl/,pendiente,2026-10-26,pendiente,Chile; cobertura del recurso pendiente,pendiente,pendiente,pendiente,pendiente,pendiente,No imputar conectividad ni presentarla como disponible
+
