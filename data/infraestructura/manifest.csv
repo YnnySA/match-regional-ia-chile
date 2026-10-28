@@ -1,0 +1,7 @@
+artifact_id,consumer_tasks,source_id,source_cutoff,source_hash,crs_input,crs_output,metric_crs,row_count,status,contract,notes
+red_vial_4326,17;18,infra-road-pending,pendiente,pendiente,pendiente,EPSG:4326,pendiente,0,pendiente,contrato_datos.md,Fuente de red vial y cobertura MVP no confirmadas
+red_vial_metric,17,infra-road-pending,pendiente,pendiente,pendiente,pendiente,pendiente,0,pendiente,contrato_datos.md,No calcular distancias hasta seleccionar CRS métrico
+servicios_4326,17;18,infra-services-datosgob,pendiente,pendiente,pendiente,EPSG:4326,pendiente,0,pendiente,contrato_datos.md,Referencia candidata sin licencia y cobertura verificadas
+servicios_metric,17,infra-services-datosgob,pendiente,pendiente,pendiente,pendiente,pendiente,0,pendiente,contrato_datos.md,No materializado
+conectividad_4326,17;18,infra-connectivity-pending,pendiente,pendiente,pendiente,EPSG:4326,pendiente,0,pendiente,contrato_datos.md,No existe fuente verificada ni imputación permitida
+
