@@ -111,6 +111,7 @@ data/processed/*.xlsx
 data/infraestructura/raw/
 data/processed/infraestructura/
 *.pkl
+!data/processed/dashboard_manifest.json
 
 # Archivos de instrucciones locales
 instrucciones_agente.md

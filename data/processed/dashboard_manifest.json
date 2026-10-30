@@ -1,0 +1,88 @@
+{
+  "manifest_version": "1.0",
+  "generated_from": "notebooks/sprint1_match_ia_regional.ipynb",
+  "artifact_budget_bytes": 26214400,
+  "artifacts": [
+    {
+      "id": "match_regional",
+      "path": "data/processed/dataset_match_ia_regional_sprint1.csv",
+      "delimiter": ";",
+      "rows": 16,
+      "state": "disponible",
+      "sha256": "ca92bc7b364ad1f32924f9393dedcba2fc9d13b24a40feefb581ae6ecc859940",
+      "granularity": "region",
+      "units": "conteos, porcentajes y LQ",
+      "nulls": "no permitidos en claves e indicadores KPI",
+      "source": "Sprint 1, oferta y Match-IA",
+      "cutoff": "2025",
+      "coverage": "16 regiones de Chile",
+      "crs": null,
+      "columns": {
+        "region_orden": "int",
+        "region_nombre": "string",
+        "n_titulados_total": "int",
+        "n_titulados_afin_ia": "int",
+        "pct_afin_ia": "float",
+        "lq_afin_ia": "float",
+        "n_titulados_gratuidad": "int",
+        "n_titulados_afin_ia_gratuidad": "int",
+        "pct_cobertura_gratuidad_afin": "float",
+        "n_sedes": "int"
+      }
+    },
+    {
+      "id": "oferta_regional",
+      "path": "data/processed/indicadores_oferta_regional.csv",
+      "delimiter": ";",
+      "rows": 16,
+      "state": "disponible",
+      "sha256": "9eafacf1af7b09c7e82c48165b2f20599b9081eb19e9347c21fcf72bc88ce929",
+      "granularity": "region",
+      "units": "conteos, porcentajes y LQ",
+      "nulls": "no permitidos en region_orden",
+      "source": "Sprint 1, indicadores de oferta",
+      "cutoff": "2025",
+      "coverage": "16 regiones de Chile",
+      "crs": null,
+      "columns": {
+        "region_orden": "int",
+        "region_nombre": "string",
+        "n_titulados_total": "int",
+        "n_titulados_afin_ia": "int",
+        "pct_afin_ia": "float",
+        "lq_afin_ia": "float",
+        "n_titulados_gratuidad": "int",
+        "n_titulados_afin_ia_gratuidad": "int",
+        "pct_cobertura_gratuidad_afin": "float",
+        "n_sedes": "int"
+      }
+    },
+    {
+      "id": "infraestructura_sedes",
+      "path": "data/processed/indicadores_accesibilidad_sedes.csv",
+      "delimiter": ",",
+      "rows": 1297,
+      "state": "disponible",
+      "sha256": "c8ec6247962cf9471f0abf5c70efee7f8a71a7df997a87db75f75943673cd665",
+      "granularity": "sede",
+      "units": "coordenadas, estados y distancias en metros",
+      "nulls": "permitidos según estado del indicador",
+      "source": "HU4, infraestructura y accesibilidad",
+      "cutoff": "2022-03-09",
+      "coverage": "sedes de educación superior",
+      "crs": "EPSG:4326; cálculo métrico documentado por registro",
+      "columns": {
+        "cod_sede": "string",
+        "region_orden": "int",
+        "region_nombre": "string",
+        "comuna_nombre": "string",
+        "latitud": "float",
+        "longitud": "float",
+        "estado_sede": "string",
+        "estado_d_via": "string",
+        "estado_servicios": "string",
+        "estado_conectividad": "string"
+      }
+    }
+  ]
+}
