@@ -1,0 +1,7 @@
+check_id,regla,resultado,detalle
+CHK-11-01,Unicidad de cod_sede en sedes disponibles,ok,1290 sedes unicas validas; 7 excluidas por duplicidad
+CHK-11-02,Cobertura completa de las 16 regiones oficiales,ok,16 regiones validadas; 1297 registros totales conciliados
+CHK-11-03,Distancias viales finitas y no negativas en metros,ok,Estado red_vial_metric: pendiente (CRS metrico: pendiente)
+CHK-11-04,Consistencia entre conteo n_c(s) y disponibilidad binaria a_c(s) en radio_m=5000,ok,Estado servicios_metric: pendiente (radio_m=5000)
+CHK-11-05,Conectividad sin imputacion cuando falta fuente asociable,ok,Estado conectividad: sin datos (manifest status=pendiente)
+CHK-11-06,Etiquetas de estado validas y ausencia de mojibake en UTF-8,ok,Estados permitidos verificados y 0 celdas con mojibake
