@@ -7,3 +7,5 @@ pyogrio>=0.7.0
 openpyxl>=3.1.0
 jupyter>=1.0.0
 nbstripout>=0.7.0
+streamlit>=1.40.0,<2.0.0
+pyarrow>=15.0.0
