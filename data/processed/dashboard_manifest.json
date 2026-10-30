@@ -1,7 +1,21 @@
 {
   "manifest_version": "1.0",
-  "generated_from": "notebooks/sprint1_match_ia_regional.ipynb",
+  "generated_from": "notebooks/sprint1_match_ia_regional.ipynb; src/dashboard/prepare_offer.py",
   "artifact_budget_bytes": 26214400,
+  "excluded_layers": [
+    {
+      "id": "red_vial",
+      "reason": "sin fuente validada común para notebook y dashboard"
+    },
+    {
+      "id": "servicios_5km",
+      "reason": "sin fuente validada común para notebook y dashboard"
+    },
+    {
+      "id": "conectividad",
+      "reason": "sin fuente validada común para notebook y dashboard"
+    }
+  ],
   "artifacts": [
     {
       "id": "match_regional",
@@ -82,6 +96,158 @@
         "estado_d_via": "string",
         "estado_servicios": "string",
         "estado_conectividad": "string"
+      }
+    },
+    {
+      "id": "infraestructura_regional",
+      "path": "data/processed/infraestructura/resumen_accesibilidad_regional.csv",
+      "delimiter": ",",
+      "rows": 16,
+      "state": "disponible",
+      "sha256": "a3c9bbc92921479086bcf5edd4aac6f5e942666dea405dd52842d30c7f21f9b4",
+      "granularity": "region",
+      "units": "conteos de sedes, cobertura y estados de disponibilidad",
+      "nulls": "permitidos cuando el estado del indicador es pendiente o sin datos",
+      "source": "HU4, resumen de accesibilidad regional",
+      "cutoff": "2022-03-09",
+      "coverage": "16 regiones de Chile",
+      "crs": "EPSG:4326; CRS métrico pendiente para capas no materializadas",
+      "columns": {
+        "region_orden": "int",
+        "region_nombre": "string",
+        "n_sedes_brutas": "int",
+        "n_sedes_validas": "int",
+        "n_sedes_excluidas": "int",
+        "cobertura_sedes_validas_pct": "float",
+        "estado_d_via_regional": "string",
+        "estado_servicios_regional": "string",
+        "estado_conectividad_regional": "string"
+      }
+    },
+    {
+      "id": "oferta_fina",
+      "path": "data/processed/oferta_fina_region_cine_nivel_gratuidad.csv",
+      "delimiter": ";",
+      "rows": 669,
+      "state": "disponible",
+      "sha256": "9146cdc91baa6eea5d260d46451efa765c37a05d646d98742c131eec538a6dda",
+      "granularity": "region x area_cine_f13 x nivel_formativo x inst_gratuidad",
+      "units": "titulados",
+      "nulls": "no permitidos en claves ni conteos",
+      "source": "SIES-Mineduc 2025; nómina institucional Mineduc 2025",
+      "cutoff": "2025",
+      "coverage": "16 regiones de Chile",
+      "crs": null,
+      "columns": {
+        "region_orden": "int",
+        "region_nombre": "string",
+        "area_cine_f13": "string",
+        "nivel_formativo": "string",
+        "inst_gratuidad": "int",
+        "n_titulados": "int",
+        "fuente": "string",
+        "fecha_corte": "string",
+        "estado_disponibilidad": "string",
+        "unidad": "string"
+      }
+    },
+    {
+      "id": "lq_cine_regional",
+      "path": "data/processed/matriz_lq_cine_regional.csv",
+      "delimiter": ";",
+      "rows": 160,
+      "state": "disponible",
+      "sha256": "16efb3ca4525714d7161067f9e06cdfa78e1c313b6dc2c8ff4c501bdb6509731",
+      "granularity": "region x area_cine_f13",
+      "units": "índice LQ",
+      "nulls": "LQ nulo cuando no existe observación regional o nacional",
+      "source": "SIES-Mineduc 2025",
+      "cutoff": "2025",
+      "coverage": "16 regiones de Chile; 10 áreas CINE-F-13",
+      "crs": null,
+      "columns": {
+        "region_orden": "int",
+        "region_nombre": "string",
+        "area_cine_f13": "string",
+        "n_titulados": "int",
+        "denominador_regional": "int",
+        "numerador_nacional": "int",
+        "denominador_nacional": "int",
+        "proporcion_regional": "float",
+        "proporcion_nacional": "float",
+        "lq": "float",
+        "estado_disponibilidad": "string",
+        "fuente": "string",
+        "fecha_corte": "string",
+        "unidad": "string"
+      }
+    },
+    {
+      "id": "auditoria_gratuidad",
+      "path": "data/processed/reporte_cruce_gratuidad.csv",
+      "delimiter": ";",
+      "rows": 2,
+      "state": "disponible",
+      "sha256": "cd99a50dff3777b72eb557ec859714158a7c8f21257499a35a4166c545738c91",
+      "granularity": "estado del cruce institucional",
+      "units": "registros e instituciones",
+      "nulls": "no permitidos",
+      "source": "Nómina institucional Mineduc 2025",
+      "cutoff": "2025",
+      "coverage": "instituciones presentes en titulados",
+      "crs": null,
+      "columns": {
+        "estado_gratuidad": "string",
+        "registros": "int",
+        "instituciones": "int"
+      }
+    },
+    {
+      "id": "demanda_regional",
+      "path": "data/processed/indicadores_demanda_regional.csv",
+      "delimiter": ";",
+      "rows": 16,
+      "state": "disponible",
+      "sha256": "3d5ba63e0c3985b5803d0a494a6819412880736b2c8905f3d8c4470b2b85e258",
+      "granularity": "region",
+      "units": "conteos, porcentajes e índice IRE-IA",
+      "nulls": "no permitidos en claves regionales",
+      "source": "SII y homologación de exposición a IA",
+      "cutoff": "2025",
+      "coverage": "16 regiones de Chile",
+      "crs": null,
+      "columns": {
+        "region_orden": "int",
+        "region_nombre": "string",
+        "n_trabajadores_total": "int",
+        "ire_ia": "float",
+        "pct_empleo_alta_exp": "float",
+        "pct_empleo_media_exp": "float",
+        "pct_empleo_baja_exp": "float"
+      }
+    },
+    {
+      "id": "demanda_exposicion",
+      "path": "data/processed/demanda_regional_exposicion.csv",
+      "delimiter": ";",
+      "rows": 336,
+      "state": "disponible",
+      "sha256": "c855c80058b50284e0a8ffa2cc276b15eb9c7dfb1a6477168cc61435cc9c4b1e",
+      "granularity": "region x sección CIIU",
+      "units": "empresas, trabajadores y AIOE",
+      "nulls": "declarados por fuente SII",
+      "source": "SII y homologación de exposición a IA",
+      "cutoff": "2025",
+      "coverage": "16 regiones de Chile",
+      "crs": null,
+      "columns": {
+        "region_orden": "int",
+        "region_nombre": "string",
+        "seccion_ciiu": "string",
+        "rubro_nombre": "string",
+        "trabajadores_dependientes": "int",
+        "aioe_score": "float",
+        "nivel_exposicion": "string"
       }
     }
   ]

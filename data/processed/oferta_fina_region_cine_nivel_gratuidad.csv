@@ -1,0 +1,670 @@
+region_orden;region_nombre;area_cine_f13;nivel_formativo;inst_gratuidad;n_titulados;fuente;fecha_corte;estado_disponibilidad;unidad
+1;Arica y Parinacota;Administración de Empresas y Derecho;Posgrado;1;44;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Administración de Empresas y Derecho;Técnico;1;362;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Administración de Empresas y Derecho;Universitario;0;7;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Administración de Empresas y Derecho;Universitario;1;329;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;92;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;86;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Artes y Humanidades;Posgrado;1;9;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Artes y Humanidades;Técnico;1;29;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Artes y Humanidades;Universitario;1;91;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Ciencias Sociales, Periodismo e Información;Posgrado;1;11;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Ciencias Sociales, Periodismo e Información;Universitario;1;139;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Ciencias naturales, matemáticas y estadística;Posgrado;1;5;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Ciencias naturales, matemáticas y estadística;Universitario;1;20;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Educación;Posgrado;1;44;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Educación;Técnico;1;131;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Educación;Universitario;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Educación;Universitario;1;266;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Ingeniería, Industria y Construcción;Técnico;1;328;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Ingeniería, Industria y Construcción;Universitario;1;312;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Salud y Bienestar;Posgrado;1;65;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Salud y Bienestar;Técnico;1;196;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Salud y Bienestar;Universitario;0;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Salud y Bienestar;Universitario;1;483;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Servicios;Técnico;1;136;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Servicios;Universitario;1;21;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Tecnología de la Información y la Comunicación (TIC);Posgrado;1;20;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Tecnología de la Información y la Comunicación (TIC);Técnico;1;52;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Tecnología de la Información y la Comunicación (TIC);Universitario;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+1;Arica y Parinacota;Tecnología de la Información y la Comunicación (TIC);Universitario;1;66;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Administración de Empresas y Derecho;Posgrado;1;21;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Administración de Empresas y Derecho;Técnico;1;418;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Administración de Empresas y Derecho;Universitario;0;26;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Administración de Empresas y Derecho;Universitario;1;523;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;7;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Artes y Humanidades;Posgrado;1;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Artes y Humanidades;Técnico;1;26;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Artes y Humanidades;Universitario;1;47;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ciencias Sociales, Periodismo e Información;Posgrado;1;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ciencias Sociales, Periodismo e Información;Universitario;0;9;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ciencias Sociales, Periodismo e Información;Universitario;1;130;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ciencias naturales, matemáticas y estadística;Posgrado;1;5;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ciencias naturales, matemáticas y estadística;Técnico;1;5;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ciencias naturales, matemáticas y estadística;Universitario;1;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Educación;Posgrado;1;10;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Educación;Técnico;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Educación;Técnico;1;258;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Educación;Universitario;0;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Educación;Universitario;1;259;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ingeniería, Industria y Construcción;Posgrado;1;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ingeniería, Industria y Construcción;Técnico;1;367;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ingeniería, Industria y Construcción;Universitario;0;17;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Ingeniería, Industria y Construcción;Universitario;1;436;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Salud y Bienestar;Técnico;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Salud y Bienestar;Técnico;1;289;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Salud y Bienestar;Universitario;0;6;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Salud y Bienestar;Universitario;1;476;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Servicios;Técnico;1;136;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Servicios;Universitario;0;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Servicios;Universitario;1;70;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Tecnología de la Información y la Comunicación (TIC);Técnico;1;43;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Tecnología de la Información y la Comunicación (TIC);Universitario;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+2;Tarapacá;Tecnología de la Información y la Comunicación (TIC);Universitario;1;67;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Administración de Empresas y Derecho;Posgrado;1;127;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Administración de Empresas y Derecho;Técnico;0;165;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Administración de Empresas y Derecho;Técnico;1;382;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Administración de Empresas y Derecho;Universitario;0;194;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Administración de Empresas y Derecho;Universitario;1;745;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Artes y Humanidades;Posgrado;1;42;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Artes y Humanidades;Técnico;0;43;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Artes y Humanidades;Universitario;0;9;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Artes y Humanidades;Universitario;1;83;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ciencias Sociales, Periodismo e Información;Posgrado;1;51;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ciencias Sociales, Periodismo e Información;Universitario;0;12;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ciencias Sociales, Periodismo e Información;Universitario;1;221;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ciencias naturales, matemáticas y estadística;Posgrado;1;35;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ciencias naturales, matemáticas y estadística;Técnico;1;14;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ciencias naturales, matemáticas y estadística;Universitario;1;134;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Educación;Posgrado;1;19;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Educación;Técnico;0;59;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Educación;Técnico;1;164;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Educación;Universitario;0;85;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Educación;Universitario;1;155;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ingeniería, Industria y Construcción;Posgrado;1;92;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ingeniería, Industria y Construcción;Técnico;0;286;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ingeniería, Industria y Construcción;Técnico;1;993;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ingeniería, Industria y Construcción;Universitario;0;135;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Ingeniería, Industria y Construcción;Universitario;1;1386;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Salud y Bienestar;Posgrado;1;23;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Salud y Bienestar;Técnico;0;353;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Salud y Bienestar;Técnico;1;230;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Salud y Bienestar;Universitario;0;133;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Salud y Bienestar;Universitario;1;723;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Servicios;Posgrado;1;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Servicios;Técnico;0;151;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Servicios;Técnico;1;268;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Servicios;Universitario;0;24;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Servicios;Universitario;1;55;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Tecnología de la Información y la Comunicación (TIC);Posgrado;1;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Tecnología de la Información y la Comunicación (TIC);Técnico;1;77;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Tecnología de la Información y la Comunicación (TIC);Universitario;0;6;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+3;Antofagasta;Tecnología de la Información y la Comunicación (TIC);Universitario;1;89;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Administración de Empresas y Derecho;Posgrado;1;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Administración de Empresas y Derecho;Técnico;0;109;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Administración de Empresas y Derecho;Técnico;1;225;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Administración de Empresas y Derecho;Universitario;0;14;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Administración de Empresas y Derecho;Universitario;1;223;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Artes y Humanidades;Técnico;1;24;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Artes y Humanidades;Universitario;1;24;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ciencias Sociales, Periodismo e Información;Posgrado;1;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ciencias Sociales, Periodismo e Información;Universitario;1;57;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ciencias naturales, matemáticas y estadística;Posgrado;1;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ciencias naturales, matemáticas y estadística;Técnico;1;12;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ciencias naturales, matemáticas y estadística;Universitario;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ciencias naturales, matemáticas y estadística;Universitario;1;46;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Educación;Posgrado;1;21;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Educación;Técnico;0;5;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Educación;Técnico;1;47;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Educación;Universitario;0;85;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Educación;Universitario;1;145;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ingeniería, Industria y Construcción;Posgrado;1;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ingeniería, Industria y Construcción;Técnico;0;30;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ingeniería, Industria y Construcción;Técnico;1;504;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Ingeniería, Industria y Construcción;Universitario;1;479;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Salud y Bienestar;Posgrado;1;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Salud y Bienestar;Técnico;0;42;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Salud y Bienestar;Técnico;1;182;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Salud y Bienestar;Universitario;0;31;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Salud y Bienestar;Universitario;1;228;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Servicios;Técnico;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Servicios;Técnico;1;120;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Servicios;Universitario;0;256;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Servicios;Universitario;1;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Tecnología de la Información y la Comunicación (TIC);Posgrado;1;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Tecnología de la Información y la Comunicación (TIC);Técnico;1;16;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Tecnología de la Información y la Comunicación (TIC);Universitario;0;6;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+4;Atacama;Tecnología de la Información y la Comunicación (TIC);Universitario;1;23;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Administración de Empresas y Derecho;Posgrado;0;187;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Administración de Empresas y Derecho;Posgrado;1;57;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Administración de Empresas y Derecho;Técnico;0;144;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Administración de Empresas y Derecho;Técnico;1;459;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Administración de Empresas y Derecho;Universitario;0;239;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Administración de Empresas y Derecho;Universitario;1;801;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;5;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;0;21;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;82;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;0;9;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;37;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Artes y Humanidades;Posgrado;1;8;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Artes y Humanidades;Técnico;1;75;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Artes y Humanidades;Universitario;0;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Artes y Humanidades;Universitario;1;126;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ciencias Sociales, Periodismo e Información;Posgrado;0;40;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ciencias Sociales, Periodismo e Información;Posgrado;1;7;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ciencias Sociales, Periodismo e Información;Universitario;0;155;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ciencias Sociales, Periodismo e Información;Universitario;1;215;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ciencias naturales, matemáticas y estadística;Posgrado;1;20;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ciencias naturales, matemáticas y estadística;Técnico;1;31;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ciencias naturales, matemáticas y estadística;Universitario;0;14;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ciencias naturales, matemáticas y estadística;Universitario;1;97;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Educación;Posgrado;0;245;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Educación;Posgrado;1;25;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Educación;Técnico;0;123;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Educación;Técnico;1;142;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Educación;Universitario;0;252;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Educación;Universitario;1;447;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ingeniería, Industria y Construcción;Posgrado;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ingeniería, Industria y Construcción;Posgrado;1;22;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ingeniería, Industria y Construcción;Técnico;0;395;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ingeniería, Industria y Construcción;Técnico;1;851;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ingeniería, Industria y Construcción;Universitario;0;341;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Ingeniería, Industria y Construcción;Universitario;1;731;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Salud y Bienestar;Posgrado;0;34;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Salud y Bienestar;Posgrado;1;52;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Salud y Bienestar;Técnico;0;533;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Salud y Bienestar;Técnico;1;513;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Salud y Bienestar;Universitario;0;511;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Salud y Bienestar;Universitario;1;549;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Servicios;Posgrado;1;41;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Servicios;Técnico;0;188;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Servicios;Técnico;1;389;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Servicios;Universitario;0;16;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Servicios;Universitario;1;47;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Tecnología de la Información y la Comunicación (TIC);Técnico;0;38;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Tecnología de la Información y la Comunicación (TIC);Técnico;1;105;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Tecnología de la Información y la Comunicación (TIC);Universitario;0;18;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+5;Coquimbo;Tecnología de la Información y la Comunicación (TIC);Universitario;1;139;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Administración de Empresas y Derecho;Posgrado;0;126;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Administración de Empresas y Derecho;Posgrado;1;984;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Administración de Empresas y Derecho;Técnico;0;321;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Administración de Empresas y Derecho;Técnico;1;1076;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Administración de Empresas y Derecho;Universitario;0;903;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Administración de Empresas y Derecho;Universitario;1;1833;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;0;22;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;21;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;0;29;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;324;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;0;221;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;190;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Artes y Humanidades;Posgrado;0;13;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Artes y Humanidades;Posgrado;1;442;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Artes y Humanidades;Técnico;0;48;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Artes y Humanidades;Técnico;1;171;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Artes y Humanidades;Universitario;0;92;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Artes y Humanidades;Universitario;1;698;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias Sociales, Periodismo e Información;Posgrado;0;68;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias Sociales, Periodismo e Información;Posgrado;1;202;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias Sociales, Periodismo e Información;Técnico;0;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias Sociales, Periodismo e Información;Universitario;0;637;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias Sociales, Periodismo e Información;Universitario;1;474;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias naturales, matemáticas y estadística;Posgrado;0;17;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias naturales, matemáticas y estadística;Posgrado;1;286;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias naturales, matemáticas y estadística;Técnico;1;27;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias naturales, matemáticas y estadística;Universitario;0;47;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ciencias naturales, matemáticas y estadística;Universitario;1;214;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Educación;Posgrado;0;49;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Educación;Posgrado;1;419;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Educación;Técnico;0;233;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Educación;Técnico;1;415;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Educación;Universitario;0;966;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Educación;Universitario;1;785;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ingeniería, Industria y Construcción;Posgrado;0;45;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ingeniería, Industria y Construcción;Posgrado;1;508;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ingeniería, Industria y Construcción;Técnico;0;355;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ingeniería, Industria y Construcción;Técnico;1;1451;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ingeniería, Industria y Construcción;Universitario;0;554;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Ingeniería, Industria y Construcción;Universitario;1;2907;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Salud y Bienestar;Posgrado;0;88;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Salud y Bienestar;Posgrado;1;444;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Salud y Bienestar;Técnico;0;848;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Salud y Bienestar;Técnico;1;1489;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Salud y Bienestar;Universitario;0;1506;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Salud y Bienestar;Universitario;1;1036;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Servicios;Posgrado;0;35;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Servicios;Posgrado;1;75;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Servicios;Técnico;0;235;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Servicios;Técnico;1;777;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Servicios;Universitario;0;214;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Servicios;Universitario;1;480;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Tecnología de la Información y la Comunicación (TIC);Posgrado;0;5;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Tecnología de la Información y la Comunicación (TIC);Posgrado;1;116;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Tecnología de la Información y la Comunicación (TIC);Técnico;0;72;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Tecnología de la Información y la Comunicación (TIC);Técnico;1;327;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Tecnología de la Información y la Comunicación (TIC);Universitario;0;81;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+6;Valparaíso;Tecnología de la Información y la Comunicación (TIC);Universitario;1;600;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Administración de Empresas y Derecho;Posgrado;0;15104;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Administración de Empresas y Derecho;Posgrado;1;12179;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Administración de Empresas y Derecho;Técnico;0;7408;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Administración de Empresas y Derecho;Técnico;1;4493;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Administración de Empresas y Derecho;Universitario;0;11621;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Administración de Empresas y Derecho;Universitario;1;11380;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;0;248;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;301;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;0;261;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;477;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;0;633;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;966;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Artes y Humanidades;Posgrado;0;512;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Artes y Humanidades;Posgrado;1;1255;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Artes y Humanidades;Técnico;0;625;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Artes y Humanidades;Técnico;1;413;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Artes y Humanidades;Universitario;0;1513;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Artes y Humanidades;Universitario;1;2992;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias Sociales, Periodismo e Información;Posgrado;0;2033;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias Sociales, Periodismo e Información;Posgrado;1;3557;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias Sociales, Periodismo e Información;Técnico;0;37;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias Sociales, Periodismo e Información;Técnico;1;23;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias Sociales, Periodismo e Información;Universitario;0;2603;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias Sociales, Periodismo e Información;Universitario;1;3579;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias naturales, matemáticas y estadística;Posgrado;0;1019;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias naturales, matemáticas y estadística;Posgrado;1;1613;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias naturales, matemáticas y estadística;Técnico;0;244;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias naturales, matemáticas y estadística;Técnico;1;100;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias naturales, matemáticas y estadística;Universitario;0;321;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ciencias naturales, matemáticas y estadística;Universitario;1;929;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Educación;Posgrado;0;7413;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Educación;Posgrado;1;2860;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Educación;Técnico;0;2906;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Educación;Técnico;1;599;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Educación;Universitario;0;2256;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Educación;Universitario;1;2879;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ingeniería, Industria y Construcción;Posgrado;0;1184;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ingeniería, Industria y Construcción;Posgrado;1;2424;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ingeniería, Industria y Construcción;Técnico;0;2547;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ingeniería, Industria y Construcción;Técnico;1;2965;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ingeniería, Industria y Construcción;Universitario;0;8045;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Ingeniería, Industria y Construcción;Universitario;1;9473;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Salud y Bienestar;Posgrado;0;6089;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Salud y Bienestar;Posgrado;1;7335;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Salud y Bienestar;Técnico;0;3888;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Salud y Bienestar;Técnico;1;4126;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Salud y Bienestar;Universitario;0;8098;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Salud y Bienestar;Universitario;1;5067;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Servicios;Posgrado;0;207;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Servicios;Posgrado;1;689;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Servicios;Técnico;0;2032;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Servicios;Técnico;1;2032;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Servicios;Universitario;0;2310;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Servicios;Universitario;1;1485;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Tecnología de la Información y la Comunicación (TIC);Posgrado;0;721;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Tecnología de la Información y la Comunicación (TIC);Posgrado;1;1182;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Tecnología de la Información y la Comunicación (TIC);Técnico;0;1432;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Tecnología de la Información y la Comunicación (TIC);Técnico;1;1331;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Tecnología de la Información y la Comunicación (TIC);Universitario;0;2018;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+7;Metropolitana de Santiago;Tecnología de la Información y la Comunicación (TIC);Universitario;1;3464;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Administración de Empresas y Derecho;Técnico;0;163;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Administración de Empresas y Derecho;Técnico;1;389;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Administración de Empresas y Derecho;Universitario;0;195;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Administración de Empresas y Derecho;Universitario;1;438;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;0;47;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;183;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;0;11;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;170;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Artes y Humanidades;Técnico;0;46;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Artes y Humanidades;Técnico;1;20;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Artes y Humanidades;Universitario;0;31;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Artes y Humanidades;Universitario;1;7;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Ciencias Sociales, Periodismo e Información;Universitario;0;38;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Ciencias Sociales, Periodismo e Información;Universitario;1;14;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Ciencias naturales, matemáticas y estadística;Posgrado;1;11;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Ciencias naturales, matemáticas y estadística;Técnico;1;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Educación;Técnico;0;165;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Educación;Técnico;1;201;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Educación;Universitario;0;88;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Educación;Universitario;1;89;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Ingeniería, Industria y Construcción;Posgrado;1;8;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Ingeniería, Industria y Construcción;Técnico;0;433;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Ingeniería, Industria y Construcción;Técnico;1;368;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Ingeniería, Industria y Construcción;Universitario;0;320;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Ingeniería, Industria y Construcción;Universitario;1;424;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Salud y Bienestar;Técnico;0;540;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Salud y Bienestar;Técnico;1;281;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Salud y Bienestar;Universitario;0;282;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Salud y Bienestar;Universitario;1;167;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Servicios;Técnico;0;203;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Servicios;Técnico;1;259;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Servicios;Universitario;0;43;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Tecnología de la Información y la Comunicación (TIC);Técnico;0;65;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Tecnología de la Información y la Comunicación (TIC);Técnico;1;78;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Tecnología de la Información y la Comunicación (TIC);Universitario;0;29;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+8;Libertador General Bernardo O'Higgins;Tecnología de la Información y la Comunicación (TIC);Universitario;1;109;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Administración de Empresas y Derecho;Posgrado;1;174;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Administración de Empresas y Derecho;Técnico;0;390;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Administración de Empresas y Derecho;Técnico;1;492;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Administración de Empresas y Derecho;Universitario;0;579;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Administración de Empresas y Derecho;Universitario;1;864;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;20;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;0;18;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;275;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;383;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Artes y Humanidades;Posgrado;1;28;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Artes y Humanidades;Técnico;1;42;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Artes y Humanidades;Universitario;1;107;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ciencias Sociales, Periodismo e Información;Posgrado;1;49;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ciencias Sociales, Periodismo e Información;Técnico;1;16;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ciencias Sociales, Periodismo e Información;Universitario;1;388;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ciencias naturales, matemáticas y estadística;Posgrado;1;31;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ciencias naturales, matemáticas y estadística;Universitario;1;77;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Educación;Posgrado;1;313;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Educación;Técnico;0;332;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Educación;Técnico;1;563;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Educación;Universitario;0;28;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Educación;Universitario;1;587;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ingeniería, Industria y Construcción;Posgrado;1;45;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ingeniería, Industria y Construcción;Técnico;0;86;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ingeniería, Industria y Construcción;Técnico;1;867;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ingeniería, Industria y Construcción;Universitario;0;146;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Ingeniería, Industria y Construcción;Universitario;1;928;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Salud y Bienestar;Posgrado;1;279;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Salud y Bienestar;Técnico;0;494;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Salud y Bienestar;Técnico;1;1122;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Salud y Bienestar;Universitario;0;125;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Salud y Bienestar;Universitario;1;1679;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Servicios;Posgrado;1;27;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Servicios;Técnico;0;138;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Servicios;Técnico;1;572;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Servicios;Universitario;0;65;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Servicios;Universitario;1;96;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Tecnología de la Información y la Comunicación (TIC);Posgrado;1;23;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Tecnología de la Información y la Comunicación (TIC);Técnico;0;13;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Tecnología de la Información y la Comunicación (TIC);Técnico;1;157;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Tecnología de la Información y la Comunicación (TIC);Universitario;0;6;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+9;Maule;Tecnología de la Información y la Comunicación (TIC);Universitario;1;274;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Administración de Empresas y Derecho;Posgrado;0;13;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Administración de Empresas y Derecho;Posgrado;1;87;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Administración de Empresas y Derecho;Técnico;0;22;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Administración de Empresas y Derecho;Técnico;1;255;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Administración de Empresas y Derecho;Universitario;0;112;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Administración de Empresas y Derecho;Universitario;1;299;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;0;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;54;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;0;12;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;129;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;0;20;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;246;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Artes y Humanidades;Posgrado;0;28;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Artes y Humanidades;Técnico;1;25;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Artes y Humanidades;Universitario;0;13;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Artes y Humanidades;Universitario;1;40;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ciencias Sociales, Periodismo e Información;Posgrado;0;23;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ciencias Sociales, Periodismo e Información;Posgrado;1;6;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ciencias Sociales, Periodismo e Información;Universitario;0;40;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ciencias Sociales, Periodismo e Información;Universitario;1;62;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ciencias naturales, matemáticas y estadística;Posgrado;1;9;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ciencias naturales, matemáticas y estadística;Universitario;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ciencias naturales, matemáticas y estadística;Universitario;1;32;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Educación;Posgrado;0;59;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Educación;Posgrado;1;76;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Educación;Técnico;0;75;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Educación;Técnico;1;200;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Educación;Universitario;0;63;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Educación;Universitario;1;351;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ingeniería, Industria y Construcción;Posgrado;1;13;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ingeniería, Industria y Construcción;Técnico;0;23;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ingeniería, Industria y Construcción;Técnico;1;389;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ingeniería, Industria y Construcción;Universitario;0;31;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Ingeniería, Industria y Construcción;Universitario;1;445;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Salud y Bienestar;Posgrado;0;35;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Salud y Bienestar;Posgrado;1;22;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Salud y Bienestar;Técnico;0;175;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Salud y Bienestar;Técnico;1;522;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Salud y Bienestar;Universitario;0;302;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Salud y Bienestar;Universitario;1;352;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Servicios;Posgrado;1;27;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Servicios;Técnico;0;29;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Servicios;Técnico;1;217;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Servicios;Universitario;0;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Servicios;Universitario;1;41;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Tecnología de la Información y la Comunicación (TIC);Técnico;1;45;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Tecnología de la Información y la Comunicación (TIC);Universitario;0;9;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+10;Ñuble;Tecnología de la Información y la Comunicación (TIC);Universitario;1;127;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Administración de Empresas y Derecho;Posgrado;0;443;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Administración de Empresas y Derecho;Posgrado;1;512;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Administración de Empresas y Derecho;Técnico;0;153;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Administración de Empresas y Derecho;Técnico;1;1162;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Administración de Empresas y Derecho;Universitario;0;798;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Administración de Empresas y Derecho;Universitario;1;1628;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;68;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;0;9;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;174;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;0;73;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;175;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Artes y Humanidades;Posgrado;0;8;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Artes y Humanidades;Posgrado;1;185;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Artes y Humanidades;Técnico;0;11;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Artes y Humanidades;Técnico;1;106;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Artes y Humanidades;Universitario;0;42;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Artes y Humanidades;Universitario;1;333;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias Sociales, Periodismo e Información;Posgrado;0;114;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias Sociales, Periodismo e Información;Posgrado;1;151;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias Sociales, Periodismo e Información;Técnico;0;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias Sociales, Periodismo e Información;Universitario;0;679;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias Sociales, Periodismo e Información;Universitario;1;412;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias naturales, matemáticas y estadística;Posgrado;0;10;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias naturales, matemáticas y estadística;Posgrado;1;183;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias naturales, matemáticas y estadística;Técnico;1;35;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias naturales, matemáticas y estadística;Universitario;0;57;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ciencias naturales, matemáticas y estadística;Universitario;1;446;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Educación;Posgrado;0;149;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Educación;Posgrado;1;463;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Educación;Técnico;0;144;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Educación;Técnico;1;841;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Educación;Universitario;0;527;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Educación;Universitario;1;1045;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ingeniería, Industria y Construcción;Posgrado;0;21;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ingeniería, Industria y Construcción;Posgrado;1;344;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ingeniería, Industria y Construcción;Técnico;0;152;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ingeniería, Industria y Construcción;Técnico;1;1905;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ingeniería, Industria y Construcción;Universitario;0;424;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Ingeniería, Industria y Construcción;Universitario;1;3221;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Salud y Bienestar;Posgrado;0;302;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Salud y Bienestar;Posgrado;1;454;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Salud y Bienestar;Técnico;0;751;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Salud y Bienestar;Técnico;1;1580;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Salud y Bienestar;Universitario;0;2230;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Salud y Bienestar;Universitario;1;1612;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Servicios;Posgrado;0;37;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Servicios;Posgrado;1;85;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Servicios;Técnico;0;287;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Servicios;Técnico;1;727;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Servicios;Universitario;0;425;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Servicios;Universitario;1;308;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Tecnología de la Información y la Comunicación (TIC);Posgrado;1;103;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Tecnología de la Información y la Comunicación (TIC);Técnico;0;36;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Tecnología de la Información y la Comunicación (TIC);Técnico;1;243;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Tecnología de la Información y la Comunicación (TIC);Universitario;0;13;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+11;Biobío;Tecnología de la Información y la Comunicación (TIC);Universitario;1;514;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Administración de Empresas y Derecho;Posgrado;0;114;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Administración de Empresas y Derecho;Posgrado;1;2396;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Administración de Empresas y Derecho;Técnico;0;117;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Administración de Empresas y Derecho;Técnico;1;479;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Administración de Empresas y Derecho;Universitario;0;166;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Administración de Empresas y Derecho;Universitario;1;898;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;31;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;213;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;0;40;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;281;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Artes y Humanidades;Posgrado;1;12;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Artes y Humanidades;Técnico;1;109;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Artes y Humanidades;Universitario;0;23;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Artes y Humanidades;Universitario;1;106;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ciencias Sociales, Periodismo e Información;Posgrado;0;5;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ciencias Sociales, Periodismo e Información;Posgrado;1;990;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ciencias Sociales, Periodismo e Información;Universitario;0;67;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ciencias Sociales, Periodismo e Información;Universitario;1;439;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ciencias naturales, matemáticas y estadística;Posgrado;1;55;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ciencias naturales, matemáticas y estadística;Universitario;1;156;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Educación;Posgrado;0;103;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Educación;Posgrado;1;1679;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Educación;Técnico;0;153;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Educación;Técnico;1;292;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Educación;Universitario;0;57;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Educación;Universitario;1;610;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ingeniería, Industria y Construcción;Posgrado;1;226;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ingeniería, Industria y Construcción;Técnico;0;99;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ingeniería, Industria y Construcción;Técnico;1;595;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ingeniería, Industria y Construcción;Universitario;0;238;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Ingeniería, Industria y Construcción;Universitario;1;918;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Salud y Bienestar;Posgrado;0;81;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Salud y Bienestar;Posgrado;1;3347;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Salud y Bienestar;Técnico;0;389;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Salud y Bienestar;Técnico;1;566;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Salud y Bienestar;Universitario;0;485;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Salud y Bienestar;Universitario;1;1360;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Servicios;Posgrado;1;36;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Servicios;Técnico;0;107;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Servicios;Técnico;1;329;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Servicios;Universitario;0;25;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Servicios;Universitario;1;166;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Tecnología de la Información y la Comunicación (TIC);Posgrado;1;1534;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Tecnología de la Información y la Comunicación (TIC);Técnico;0;16;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Tecnología de la Información y la Comunicación (TIC);Técnico;1;117;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Tecnología de la Información y la Comunicación (TIC);Universitario;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+12;La Araucanía;Tecnología de la Información y la Comunicación (TIC);Universitario;1;129;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Administración de Empresas y Derecho;Posgrado;0;75;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Administración de Empresas y Derecho;Posgrado;1;95;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Administración de Empresas y Derecho;Técnico;0;10;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Administración de Empresas y Derecho;Técnico;1;230;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Administración de Empresas y Derecho;Universitario;0;100;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Administración de Empresas y Derecho;Universitario;1;344;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;298;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;47;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;221;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Artes y Humanidades;Posgrado;1;46;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Artes y Humanidades;Técnico;1;35;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Artes y Humanidades;Universitario;1;115;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ciencias Sociales, Periodismo e Información;Posgrado;1;77;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ciencias Sociales, Periodismo e Información;Universitario;0;124;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ciencias Sociales, Periodismo e Información;Universitario;1;181;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ciencias naturales, matemáticas y estadística;Posgrado;0;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ciencias naturales, matemáticas y estadística;Posgrado;1;77;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ciencias naturales, matemáticas y estadística;Universitario;1;200;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Educación;Posgrado;0;8;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Educación;Posgrado;1;5;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Educación;Técnico;0;89;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Educación;Técnico;1;77;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Educación;Universitario;0;186;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Educación;Universitario;1;205;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ingeniería, Industria y Construcción;Posgrado;1;33;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ingeniería, Industria y Construcción;Técnico;0;21;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ingeniería, Industria y Construcción;Técnico;1;415;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ingeniería, Industria y Construcción;Universitario;0;51;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Ingeniería, Industria y Construcción;Universitario;1;591;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Salud y Bienestar;Posgrado;0;38;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Salud y Bienestar;Posgrado;1;54;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Salud y Bienestar;Técnico;0;109;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Salud y Bienestar;Técnico;1;264;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Salud y Bienestar;Universitario;0;212;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Salud y Bienestar;Universitario;1;623;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Servicios;Posgrado;1;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Servicios;Técnico;0;31;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Servicios;Técnico;1;197;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Servicios;Universitario;0;8;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Servicios;Universitario;1;70;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Tecnología de la Información y la Comunicación (TIC);Posgrado;1;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Tecnología de la Información y la Comunicación (TIC);Técnico;1;72;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Tecnología de la Información y la Comunicación (TIC);Universitario;0;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+13;Los Ríos;Tecnología de la Información y la Comunicación (TIC);Universitario;1;75;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Administración de Empresas y Derecho;Posgrado;0;270;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Administración de Empresas y Derecho;Posgrado;1;19;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Administración de Empresas y Derecho;Técnico;0;148;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Administración de Empresas y Derecho;Técnico;1;538;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Administración de Empresas y Derecho;Universitario;0;161;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Administración de Empresas y Derecho;Universitario;1;776;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Agricultura, Silvicultura, Pesca y Veterinaria;Posgrado;1;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;249;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;0;39;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;187;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Artes y Humanidades;Posgrado;1;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Artes y Humanidades;Técnico;0;6;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Artes y Humanidades;Técnico;1;22;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Artes y Humanidades;Universitario;0;16;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Artes y Humanidades;Universitario;1;53;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ciencias Sociales, Periodismo e Información;Posgrado;1;28;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ciencias Sociales, Periodismo e Información;Universitario;0;75;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ciencias Sociales, Periodismo e Información;Universitario;1;290;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ciencias naturales, matemáticas y estadística;Posgrado;0;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ciencias naturales, matemáticas y estadística;Posgrado;1;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ciencias naturales, matemáticas y estadística;Universitario;1;6;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Educación;Posgrado;0;19;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Educación;Posgrado;1;15;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Educación;Técnico;0;87;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Educación;Técnico;1;235;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Educación;Universitario;0;260;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Educación;Universitario;1;282;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ingeniería, Industria y Construcción;Técnico;0;197;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ingeniería, Industria y Construcción;Técnico;1;692;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ingeniería, Industria y Construcción;Universitario;0;168;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Ingeniería, Industria y Construcción;Universitario;1;648;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Salud y Bienestar;Posgrado;0;27;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Salud y Bienestar;Posgrado;1;44;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Salud y Bienestar;Técnico;0;364;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Salud y Bienestar;Técnico;1;571;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Salud y Bienestar;Universitario;0;465;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Salud y Bienestar;Universitario;1;882;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Servicios;Posgrado;1;6;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Servicios;Técnico;0;143;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Servicios;Técnico;1;406;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Servicios;Universitario;0;25;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Servicios;Universitario;1;47;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Tecnología de la Información y la Comunicación (TIC);Técnico;0;20;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Tecnología de la Información y la Comunicación (TIC);Técnico;1;144;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Tecnología de la Información y la Comunicación (TIC);Universitario;0;10;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+14;Los Lagos;Tecnología de la Información y la Comunicación (TIC);Universitario;1;182;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Administración de Empresas y Derecho;Técnico;0;14;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Administración de Empresas y Derecho;Técnico;1;110;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Administración de Empresas y Derecho;Universitario;0;2;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Administración de Empresas y Derecho;Universitario;1;21;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;32;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;19;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Artes y Humanidades;Técnico;1;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Ciencias Sociales, Periodismo e Información;Universitario;1;20;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Educación;Técnico;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Educación;Universitario;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Educación;Universitario;1;8;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Ingeniería, Industria y Construcción;Técnico;0;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Ingeniería, Industria y Construcción;Técnico;1;50;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Ingeniería, Industria y Construcción;Universitario;0;3;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Ingeniería, Industria y Construcción;Universitario;1;43;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Salud y Bienestar;Técnico;1;58;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Salud y Bienestar;Universitario;1;44;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Servicios;Técnico;1;29;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Servicios;Universitario;1;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Tecnología de la Información y la Comunicación (TIC);Técnico;1;9;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+15;Aysén del General Carlos Ibáñez del Campo;Tecnología de la Información y la Comunicación (TIC);Universitario;1;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Administración de Empresas y Derecho;Posgrado;1;18;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Administración de Empresas y Derecho;Técnico;1;141;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Administración de Empresas y Derecho;Universitario;0;11;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Administración de Empresas y Derecho;Universitario;1;150;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Agricultura, Silvicultura, Pesca y Veterinaria;Técnico;1;23;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Agricultura, Silvicultura, Pesca y Veterinaria;Universitario;1;9;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Artes y Humanidades;Técnico;1;16;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Artes y Humanidades;Universitario;1;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Ciencias Sociales, Periodismo e Información;Universitario;1;5;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Ciencias naturales, matemáticas y estadística;Técnico;1;10;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Ciencias naturales, matemáticas y estadística;Universitario;1;15;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Educación;Técnico;1;49;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Educación;Universitario;1;45;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Ingeniería, Industria y Construcción;Técnico;1;177;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Ingeniería, Industria y Construcción;Universitario;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Ingeniería, Industria y Construcción;Universitario;1;110;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Salud y Bienestar;Técnico;1;122;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Salud y Bienestar;Universitario;1;193;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Servicios;Técnico;1;143;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Servicios;Universitario;1;17;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Tecnología de la Información y la Comunicación (TIC);Técnico;1;20;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Tecnología de la Información y la Comunicación (TIC);Universitario;0;1;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
+16;Magallanes y de la Antártica Chilena;Tecnología de la Información y la Comunicación (TIC);Universitario;1;4;"SIES-Mineduc 2025; gratuidad institucional Mineduc 2025";2025;disponible;titulados
