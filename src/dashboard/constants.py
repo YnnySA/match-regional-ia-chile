@@ -46,6 +46,24 @@ REGIONS = (
 REGION_BY_ORDER = dict(REGIONS)
 MVP_REGION_ORDERS = (6, 7, 11)
 
+AREA_FILTER_OPTIONS = {
+    "Administración de Empresas y Derecho": "Administración de Empresas y Derecho",
+    "Agricultura, Silvicultura, Pesca y Veterinaria": "Agricultura, Silvicultura, Pesca y Veterinaria",
+    "Artes y Humanidades": "Artes y Humanidades",
+    "Ciencias naturales, matemáticas y estadística": "Ciencias naturales, matemáticas y estadística",
+    "Ciencias Sociales, Periodismo e Información": "Ciencias Sociales, Periodismo e Información",
+    "Educación": "Educación",
+    "Ingeniería, Industria y Construcción": "Ingeniería, Industria y Construcción",
+    "Salud y Bienestar": "Salud y Bienestar",
+    "Servicios": "Servicios",
+    "Tecnología de la Información y la Comunicación (TIC)": "Tecnología de la Información y la Comunicación (TIC)",
+}
+LEVEL_FILTER_OPTIONS = {
+    "Universitario": "Universitario",
+    "Técnico": "Técnico",
+    "Posgrado": "Posgrado",
+}
+
 NAV_ITEMS = (
     "Visión General",
     "Oferta y Titulados",

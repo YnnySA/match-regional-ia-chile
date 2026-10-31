@@ -112,6 +112,9 @@ data/infraestructura/raw/
 data/processed/infraestructura/
 *.pkl
 !data/processed/dashboard_manifest.json
+!data/processed/oferta_fina_region_cine_nivel_gratuidad.csv
+!data/processed/matriz_lq_cine_regional.csv
+!data/processed/reporte_cruce_gratuidad.csv
 
 # Archivos de instrucciones locales
 instrucciones_agente.md
