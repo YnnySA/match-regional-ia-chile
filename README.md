@@ -2,76 +2,123 @@
 
 ## Match-IA Regional
 
-Proyecto de análisis territorial para apoyar decisiones sobre formación, subsidios e inversión en capacidades complementarias a la Inteligencia Artificial.
+Aplicación de análisis territorial que relaciona la oferta regional de
+formación afín a Inteligencia Artificial con la estructura productiva, la
+exposición sectorial a IA y la infraestructura de educación superior.
 
-El análisis relaciona:
+El proyecto entrega dos productos relacionados:
 
-- oferta regional de titulados;
-- instituciones adscritas a Gratuidad;
-- estructura productiva y empleo;
-- exposición sectorial a la IA;
-- infraestructura y servicios territoriales.
+- un notebook técnico reproducible;
+- un dashboard Streamlit para explorar los mismos resultados.
 
 ## Objetivo
 
-Identificar regiones y sectores donde exista mayor o menor correspondencia entre la oferta de titulados en áreas afines a IA y la demanda productiva regional expuesta a la IA.
+Identificar diferencias territoriales entre la oferta de titulados en áreas
+afines a IA y la demanda productiva regional expuesta a IA, considerando
+gratuidad institucional, especialización formativa, Match-IA y sedes
+georreferenciadas.
 
-## Estructura
+## Estructura del proyecto
 
-| Directorio | Contenido |
+| Ruta | Contenido |
 |---|---|
-| `data/` | Datos originales y procesados |
-| `notebooks/` | Análisis reproducibles |
-| `reports/figures/` | Gráficos y mapas |
-| `openspec/` | Especificaciones y tareas del proyecto |
-| `evaluacion_sprint1.md` | Evaluación del Sprint 1 |
+| `app.py` | Punto de entrada del dashboard Streamlit |
+| `.streamlit/` | Configuración visual y de ejecución de Streamlit |
+| `src/dashboard/` | Loaders, contratos, métricas, vistas, tema y validación de paridad |
+| `data/oferta/` | Fuentes de oferta y nómina institucional de gratuidad |
+| `data/demanda/` | Fuentes de empresas, trabajadores y homologación sectorial |
+| `data/geo/` | Fuente geográfica de sedes |
+| `data/infraestructura/` | Contratos, diccionarios y fuentes de infraestructura |
+| `data/processed/` | Artefactos procesados consumidos por el dashboard |
+| `notebooks/` | Notebook técnico principal del Sprint 1 |
+| `reports/figures/` | Figuras de resultados y mapas |
+| `docs/` | Trazabilidad, paridad, datos y rendimiento |
+| `openspec/` | Especificaciones y cambios del proyecto |
 
-## Organización del proyecto
+La aplicación no lee ni limpia los archivos crudos durante la interacción.
+Consume únicamente artefactos procesados registrados en
+`data/processed/dashboard_manifest.json`.
 
-| Sprint | Scrum Master | Product Owner |
+## Integrantes y roles
+
+| Integrante | Rol Sprint 1 | Rol Sprint 2 |
 |---|---|---|
-| Sprint 1 | Yenny Sánchez | Hernán Leiva |
-| Sprint 2 | Marian García | Jaisson Torres |
+| Yenny Sánchez | Scrum Master | Developer |
+| Hernán Leiva | Product Owner | Developer |
+| Marian García | Developer | Scrum Master |
+| Jaisson Torres | Developer | Developer |
 
-## Sprint 1 · Oferta, demanda y Match-IA
+## Dashboard
 
-**Periodo:** 26/09/2026–16/10/2026
+El dashboard incluye:
 
-El Sprint 1 entrega un análisis exploratorio de la oferta de titulados y de los sectores productivos regionales expuestos a IA, mediante indicadores, mapas, gráficos, matriz Match-IA, ficha metodológica y un notebook reproducible.
+- visión general y ranking regional de oferta afín a IA;
+- composición de titulados por área CINE-F-13 y nivel;
+- gratuidad institucional;
+- matriz y resumen de especialización regional mediante LQ;
+- indicadores de demanda y exposición productiva;
+- matriz Match-IA regional;
+- distribución regional y mapa de sedes georreferenciadas con silueta de Chile.
 
-### Historias de usuario
+Las capas de red vial, servicios en radio de 5 km y conectividad fueron
+excluidas del producto final por no contar con una fuente validada común para
+el notebook y el dashboard.
 
-| Historia | Objetivo | Tareas | Estado |
-|---|---|---|---|
-| [User_01 — Oferta de titulados con gratuidad](https://github.com/TECH-MACI/2026-G03/issues/1) | Caracterizar titulados, áreas afines a IA, gratuidad y sedes por región | #8, #9 | Done |
-| [User_02 — Sectores económicos y exposición a IA](https://github.com/TECH-MACI/2026-G03/issues/2) | Caracterizar la estructura productiva y su relación con IA | #10, #11 | Done |
+## Datos procesados principales
 
-### Tareas del Sprint 1
+- `data/processed/dashboard_manifest.json`
+- `data/processed/oferta_fina_region_cine_nivel_gratuidad.csv`
+- `data/processed/matriz_lq_cine_regional.csv`
+- `data/processed/reporte_cruce_gratuidad.csv`
+- `data/processed/chile_outline.geojson`
+- `data/processed/infraestructura/`
 
-| Issue | Tarea | Estimate (hours) | Estado |
-|---:|---|---:|---|
-| #8 | Configurar entorno, cargar y estandarizar titulados y sedes | 6 | Done |
-| #9 | Calcular indicadores de oferta, mapas y ficha metodológica | 8 | Done |
-| #10 | Preparar datos de empresas, empleo y exposición a IA | 12 | Done |
-| #11 | Calcular indicadores, matriz Match-IA y consolidar el notebook | 10 | Done |
-|  | **Total Sprint 1** | **36** |  |
+Los artefactos regionales de oferta, demanda, Match-IA e infraestructura se
+validan mediante el manifest antes de renderizarse.
 
-## Sprint 2 · Infraestructura y dashboard
+## Ejecución local
 
-El Sprint 2 continuará el análisis territorial con indicadores de infraestructura y un dashboard para explorar y comparar regiones.
+Instalar las dependencias:
 
-## Resultados principales
+```powershell
+pip install -r requirements.txt
+```
 
-- `notebooks/sprint1_match_ia_regional.ipynb`
-- `data/processed/indicadores_oferta_regional.csv`
-- `data/processed/indicadores_demanda_regional.csv`
-- `data/processed/dataset_match_ia_regional_sprint1.csv`
-- `reports/figures/`
+Iniciar la aplicación:
 
-## Especificaciones y documentación
+```powershell
+streamlit run app.py
+```
 
-- [Entorno y estructura](openspec/specs/entorno-y-estructura/spec.md)
-- [Oferta de titulados](openspec/specs/oferta-titulados/spec.md)
-- [Demanda SII y exposición a IA](openspec/specs/demanda-sii-ia/spec.md)
-- [Matriz Match-IA](openspec/specs/matriz-match-ia/spec.md)
-- [Evaluación del Sprint 1](evaluacion_sprint1.md)
+Abrir `http://localhost:8501/`.
+
+## Validaciones
+
+Validar la correspondencia entre notebook y dashboard:
+
+```powershell
+python -m src.dashboard.parity
+```
+
+Preparar nuevamente los artefactos finos de oferta y LQ:
+
+```powershell
+python -m src.dashboard.prepare_offer
+```
+
+La validación de paridad cubre las regiones MVP Valparaíso (6),
+Metropolitana de Santiago (7) y Biobío (11).
+
+## Despliegue en Streamlit Community Cloud
+
+En Streamlit Community Cloud, seleccionar el repositorio del proyecto y
+establecer `app.py` como archivo principal. La aplicación debe desplegarse
+desde la rama que el equipo haya definido como estable.
+
+## Documentación técnica
+
+- [Datos y trazabilidad del dashboard](docs/dashboard-data.md)
+- [Paridad notebook-dashboard](docs/dashboard-parity.md)
+- [Auditoría notebook-dashboard](docs/notebook-dashboard-audit.md)
+- [Rendimiento del dashboard](docs/dashboard-performance.md)
+- [Notebook técnico](notebooks/sprint1_match_ia_regional.ipynb)
