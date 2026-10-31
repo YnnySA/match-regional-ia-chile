@@ -34,12 +34,14 @@ def filter_offer(
 
 
 def filter_offer_detail(
-    frame: pd.DataFrame,
+    frame: pd.DataFrame | None,
     region_orders: list[int],
     gratuidad: str,
     areas: list[str] | None = None,
     levels: list[str] | None = None,
 ) -> pd.DataFrame:
+    if frame is None:
+        return pd.DataFrame()
     if frame.empty:
         return frame.copy()
     result = frame[frame["region_orden"].isin(region_orders)].copy()
